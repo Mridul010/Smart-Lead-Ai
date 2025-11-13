@@ -1,0 +1,1001 @@
+lead_id,lead_source,country,pages_visited,time_on_site,email_opens,interaction_score,profile_complete,previous_purchases,converted
+75f3d1c5-3915-407f-ba59-f33d993706ed,Instagram,UK,13,10.09,6,90,52,1,1
+1cfc1030-ff1c-43b7-a01c-f9b30cbea1c9,Referral,UK,2,18.55,9,17,77,1,1
+8ac309fa-b017-492e-b1e0-b90a827e1250,Email Campaign,India,15,29.43,6,84,56,0,1
+5c6bd21e-4df0-49ea-8b6a-075e4473b494,Referral,Canada,13,19.82,9,96,93,1,1
+80bf7f7c-8786-4e37-80f7-34211ad7959c,Facebook,UK,14,1.84,7,59,82,1,1
+b03050a5-ba05-4c0e-8da6-1d1b28ee532a,Google Ads,Germany,7,22.41,9,72,52,0,1
+c65b6be4-391a-436d-8edd-e84d292fcf6e,LinkedIn,Germany,2,21.98,5,81,61,1,1
+1976b02b-774d-478d-8648-f144e2eca6de,Referral,USA,18,24.91,5,32,44,0,0
+576648b0-59d7-43f1-88a5-07ac0f975c3c,Instagram,India,1,11.72,4,39,65,0,0
+1c8d6cfb-2a13-41da-b493-a52ad4da117c,Facebook,Germany,3,10.71,5,98,37,0,0
+72868e47-61c6-4d23-9f83-3582f48c88cc,Email Campaign,USA,9,2.01,3,78,98,1,1
+536bf5e0-b3da-4e91-84c4-b14f6ab8a61e,Instagram,USA,2,16.16,7,15,88,0,1
+fb270934-972a-45f7-b048-0242ec20bebc,Facebook,USA,14,5.54,9,36,70,1,1
+1f12840f-212f-41d9-b1fc-4c564a2e0cd7,Email Campaign,USA,3,10.6,1,60,47,1,1
+258b0d42-1df4-47a7-84fa-554a16aed8b4,LinkedIn,India,11,21.61,8,76,61,1,1
+eae84cfb-7a7b-447b-b24b-4ddc7728676e,Email Campaign,USA,19,21.44,8,26,68,0,1
+a9d953c8-c9b8-4881-a5af-e2cda23bb547,Facebook,Canada,3,3.98,3,85,96,1,1
+d8920bbc-77c6-493e-b42f-40b1efb1b55f,Instagram,Canada,5,8.59,3,33,42,0,0
+ff3c7968-b19c-45bb-8ff2-2e1bd2d440c1,Google Ads,Canada,11,5.89,8,32,44,1,1
+35583e8c-6e7c-4852-baf1-19639abc8ff6,Email Campaign,UK,10,6.99,6,88,66,0,0
+07ad8fe1-e479-48ef-96ad-63763a11c8e9,Facebook,India,6,26.53,1,74,52,0,0
+fafabf5e-ae93-410e-a99e-8957d7a62747,LinkedIn,Germany,5,22.79,9,86,32,1,1
+96070372-de9d-4d36-9227-4e1362544586,Instagram,India,19,18.57,2,79,39,0,0
+df49d8e1-fe1e-4437-8e44-4cb629702a76,Instagram,Canada,5,26.92,0,63,86,0,1
+8b1f5b30-6c2f-451f-a622-7d9897bce98b,Google Ads,Germany,17,15.68,2,94,51,1,1
+5a6b77e6-4408-48db-99fa-9fcdcfedd9e9,LinkedIn,USA,16,9.86,9,18,33,0,0
+18a8c67d-681c-4497-bf85-d94b1bd2aee2,Google Ads,USA,2,6.46,4,46,96,1,1
+d8aa98d3-3024-4618-afca-289732a63256,Google Ads,USA,18,23.58,8,45,82,0,1
+276f3411-8a6c-41be-9705-eaa3e1d51d9f,Referral,UK,17,5.8,6,15,80,0,0
+9f434dc1-26da-4cf2-b0dd-c4bcb7c11b75,Email Campaign,Australia,17,5.78,8,63,58,0,0
+600f2970-2cbb-4e1c-80d5-9950ac7d68f3,Referral,USA,14,6.18,5,56,47,0,0
+cc631f99-5eff-4d3f-acb6-6b7813a16fb6,Email Campaign,Canada,4,20.69,1,63,78,0,1
+cd11b9dc-459b-4639-9497-291d8984df78,Google Ads,India,4,29.67,5,25,68,0,0
+12b7b07a-3de6-418a-b876-c591ed59b74a,Facebook,Germany,17,11.01,2,54,50,1,1
+01d08cda-f1a8-4015-9c37-503971897131,Referral,Germany,10,28.78,8,53,74,1,1
+d4618a8b-561d-4cc7-8d4d-1e233fea2ff7,Email Campaign,Germany,10,0.52,5,99,82,1,1
+16370459-ed94-4e49-8f38-290266e14aa2,Email Campaign,Canada,11,28.82,9,70,64,0,1
+0bf3e782-f474-42da-8217-4b8936ca4d5c,Email Campaign,Germany,12,27.98,4,48,94,1,1
+9a3efb4a-ea43-46a9-a46b-9b9b8aa24a7d,Facebook,USA,7,3.24,4,86,56,1,1
+f76dbbf0-cd15-418a-80e5-834e6edc55a1,Email Campaign,USA,3,7.44,7,80,87,0,1
+0bbd6760-adfc-4ddc-9bd1-4b19ec5be456,Google Ads,UK,6,11.15,3,52,72,1,1
+2c56ac1d-1586-431a-8136-8a00296c4700,Google Ads,UK,6,8.44,1,54,55,0,0
+82daaffa-f6bf-4af5-88f1-56bf9a8fd397,Instagram,USA,4,2.37,0,58,71,0,0
+bf630878-e793-42e3-bafe-65058a4ac0bf,LinkedIn,Germany,19,21.81,3,80,47,1,1
+9ccc535a-54fa-486f-aff9-719628f45c1e,Referral,India,18,27.28,0,61,42,1,1
+22cced2a-60bb-4c06-b89a-c843c113e4a9,Referral,India,11,14.97,2,47,36,1,1
+6f286417-6e01-4390-a13e-b6216f9af666,Google Ads,Australia,8,11.1,0,35,39,1,1
+90687daf-4f85-422c-af6a-078486172c25,Email Campaign,Canada,11,11.92,3,46,89,1,1
+ed079b16-bf04-4c12-a3fb-e8c3ffcfedb9,Google Ads,Germany,16,17.99,7,51,42,1,1
+48b22574-5948-4e90-ada1-c9f8a527853b,Google Ads,Australia,13,1.19,6,57,76,0,0
+334ad2a6-8a50-4eb8-84a6-5c578fd57b2e,Referral,Canada,6,13.45,9,95,52,1,1
+d53895d6-e0ed-4cd6-a56c-1bdd1975c8ce,LinkedIn,UK,12,12.07,5,56,62,0,0
+800753e8-84b3-43f9-ba25-685ff90cf7d0,Instagram,USA,17,25.83,7,55,38,0,1
+1055a712-b160-4421-88a4-b15de882cb3e,Referral,Germany,18,5.91,7,76,92,0,1
+32675d13-6c92-4bcc-aafd-5fad19a48fdf,Google Ads,UK,15,20.29,1,62,50,0,0
+cdc9c4b7-429a-4822-ad4b-dff19a6b8f94,Instagram,Australia,1,10.6,8,65,68,0,1
+e0830efc-b814-4890-9665-f54fac77f1c3,Google Ads,Australia,19,9.04,8,91,73,0,1
+a6153fec-e387-4d85-879c-a5b5cb0ecbe2,Email Campaign,Australia,12,18.52,8,15,68,0,1
+3f3493ac-a50d-4e3e-bdf4-c4eb2ec20dcc,Referral,Australia,11,1.98,8,65,43,1,1
+6efbd22f-50f7-4a8a-9dc1-1ef0fe668767,Instagram,India,9,17.2,5,77,43,0,0
+4974792c-9ab5-4760-9fa6-fecfef35d76e,Google Ads,Australia,17,24.16,4,15,82,0,0
+0b05383a-6ce3-4562-921c-def87ce9f31b,Google Ads,USA,17,2.56,8,44,31,0,0
+c933d6de-a3ae-487e-8457-e608ab0a132f,Email Campaign,Germany,11,4.06,1,92,68,0,0
+f5aff3d7-2bc3-4e8e-88dc-7e977a841d67,Google Ads,USA,13,15.96,5,62,48,0,0
+06f5e9b4-407c-4d6b-85ab-7dc4db307592,Google Ads,UK,7,27.52,3,39,88,0,0
+cbb963ef-9374-4c81-9f05-5f7e649ee787,Facebook,UK,6,21.66,1,20,52,1,1
+aea0ea92-056f-436a-8fe8-1891145670c8,Google Ads,India,2,18.59,6,59,82,1,1
+c0ec352d-4630-401e-9d4b-197673e56e86,LinkedIn,India,6,20.84,5,70,90,0,1
+0b1f47db-2a55-4c4a-b338-c2e2b9a81941,LinkedIn,UK,7,15.03,4,74,58,1,1
+ba8d5ece-bfad-42ad-a583-dea5ab40e926,LinkedIn,USA,5,11.26,1,70,34,1,1
+cbb60930-d604-4b52-b9a2-95879bd286b3,Referral,Australia,13,23.82,1,15,93,0,0
+62a11d1b-2790-4025-9e0c-590e2dd1fcad,LinkedIn,Canada,11,7.37,9,30,40,1,1
+6cccd1a8-ea25-4159-baf6-81f57e7ad9a7,Email Campaign,Australia,12,26.28,9,39,89,1,1
+b5db9cd3-c5f3-40ce-bda2-f54c55c09774,Instagram,Germany,1,25.81,3,69,55,1,1
+fc3474d8-482e-446d-b8f1-6dd2c8c71199,Facebook,Canada,16,25.67,7,13,34,0,1
+4b91888f-c264-41fa-a13c-e42d6266c5f9,Instagram,Australia,16,27.01,2,46,49,0,0
+1d657143-25d9-4140-b6c4-66792d9d5e4b,Google Ads,USA,3,15.77,4,41,60,0,0
+bfa8fb40-3594-4f98-95fc-b29b4f083673,Email Campaign,Germany,7,15.44,4,74,78,1,1
+7f0a86c1-b965-47f6-8631-5c7b0c60142e,LinkedIn,UK,13,29.45,9,11,45,0,1
+42ff7748-51da-4dae-99db-d00d8ff555b5,Referral,India,12,26.67,7,40,61,1,1
+52fbe533-1378-4f09-94fc-c698b8e39881,Email Campaign,Canada,13,3.02,0,68,55,0,0
+193151f5-19c7-4769-81fb-614afb5b129c,Facebook,Australia,17,22.88,8,72,54,1,1
+3e900a0b-e584-4a62-b61b-e4f1f1b80504,Email Campaign,Canada,11,12.07,2,45,89,1,1
+42a02adc-64da-4767-ba09-81a664c880a9,Email Campaign,Canada,18,7.6,1,27,48,0,0
+66e5f3b6-96a5-42ea-bff1-d8f94ba10497,LinkedIn,India,4,8.95,3,84,75,1,1
+7409a70f-3e04-4ce8-aaa0-0402335d8874,Instagram,UK,7,13.59,4,93,33,0,0
+6afb60dc-4a20-4c59-9d1f-f04b7a5560f7,Email Campaign,USA,13,9.26,6,69,30,0,0
+a76f9be3-c5f4-4b9d-a943-729f2efccd7f,Instagram,Germany,11,26.35,7,35,76,0,1
+6d0fb351-7e46-4a39-bc46-06092a5eedcf,Facebook,India,17,3.17,5,50,50,0,0
+f1f15714-195e-4814-91e1-615175f999b4,Email Campaign,Germany,5,5.99,5,53,57,0,0
+a38e6d18-2b2c-4684-a605-1339da56d0f8,Referral,India,15,25.43,0,10,30,1,1
+263f1af9-ea80-4808-b95e-a2e097a455a2,Email Campaign,Australia,19,5.84,4,53,77,1,1
+35b805b0-b8db-42ae-8110-c0a2a8881d9e,Referral,Canada,9,12.14,6,30,46,1,1
+9c5d1659-56a3-4897-8bc7-c8f084fb8792,Email Campaign,UK,12,19.21,1,31,74,0,0
+86d2ed5b-c357-49ce-9599-a6d6d04570b2,Instagram,Germany,8,20.22,7,30,58,0,1
+97838019-1d4d-4417-9660-bc12109863b2,Email Campaign,Australia,3,13.93,8,85,67,1,1
+73fb6d0c-09c6-4f40-bf51-cf05ed0e1fd6,Instagram,Germany,17,13.51,8,69,38,0,1
+fd8178d4-dc59-4b8d-b767-abec3c392649,Referral,India,10,29.93,4,86,36,0,0
+d1779f34-de11-4a8e-b37d-93646936d203,Google Ads,India,1,9.38,1,84,90,1,1
+9dfbdefa-6370-4344-83c5-cb3b07ab3d02,Referral,Canada,15,21.9,2,38,88,0,0
+19e7d0e1-e6e0-4b19-aa99-287d4593fc39,Instagram,Australia,3,21.55,5,75,87,0,1
+2bc160dd-0c01-4740-b510-cbdbc2f9d922,Instagram,India,10,19.62,1,35,43,1,1
+cf9c5f2c-f9b7-4458-84c6-e45d7eb07b60,Email Campaign,Canada,4,27.82,6,29,77,1,1
+9fb2b427-771d-4894-b5b3-eeadd2b2448b,Facebook,UK,1,15.93,6,49,35,0,1
+ac3d06f9-0dbc-4f9e-b374-123005aa2b3e,LinkedIn,USA,18,12.76,4,79,49,0,0
+60dce7a8-91b1-4fc7-97a9-ff3358e1164b,Instagram,USA,12,18.12,6,44,97,1,1
+f89b3026-3df3-4656-86d2-783621ef0714,Google Ads,India,1,1.85,9,14,57,0,0
+78032dbf-ba5c-496b-b22a-4e1fc8d55728,Facebook,USA,4,11.7,2,20,42,0,0
+74e70a25-dc33-4783-9772-5fd23400c5f9,Facebook,Canada,2,23.87,9,14,98,1,1
+24048705-f436-4059-836b-49e3f8136cfa,Referral,Canada,13,28.75,8,78,58,0,1
+3ce73e90-570a-4ed3-9be7-0520542e5600,Google Ads,Canada,2,9.55,4,63,38,1,1
+ba3d006f-1d66-4837-8bc7-95cde4ea94db,Instagram,UK,12,15.82,2,60,42,0,0
+080c0425-33f3-487c-9fc9-e4f66c151c8f,Instagram,Germany,12,0.81,4,66,92,0,1
+6a8944e7-fe58-48df-bdd6-b6bd16bf125a,Facebook,India,19,7.29,9,45,40,0,0
+975dc912-e00e-4ce7-be0f-02820196e981,Email Campaign,USA,16,25.34,6,86,50,0,1
+5ed67b27-96a6-49e3-8846-3bd2bcf3bb1d,Instagram,Germany,19,7.97,6,63,63,0,0
+dc17e515-f541-4e40-8312-06a8f30612c7,Instagram,Australia,12,5.37,0,45,86,1,1
+5d3e19f9-71cf-4df1-8733-e6cd2f69fbb7,Google Ads,UK,3,5.53,1,25,60,0,0
+4b356ea1-0bcb-4e5c-a391-b93d4e17e13d,Facebook,India,10,27.03,3,42,75,0,0
+2486e22c-0f2c-43c1-9582-b9895c4890e5,Instagram,India,17,3.75,1,30,55,1,1
+02133348-1bff-4a93-9cbf-235689680151,Google Ads,UK,11,22.5,2,85,30,1,1
+ba2f664a-23cc-4214-996b-ae899077cbb9,Google Ads,UK,1,22.97,4,28,58,1,1
+13edd25e-8145-423d-8e7e-d10668934343,LinkedIn,UK,12,7.79,3,54,71,1,1
+42756ee9-ba4d-4b8f-92a9-a8b1b6878dd6,Google Ads,India,18,11.75,7,61,61,0,1
+ace7d401-b035-4e75-aa71-db544281857e,Facebook,USA,2,25.8,6,62,72,0,1
+5104681e-ef13-4984-8faf-cc818d754943,Email Campaign,Canada,4,9.19,6,13,61,1,1
+7ae43e84-7869-4d53-8a6c-385b7ec3b2eb,Referral,Germany,17,9.12,0,28,46,1,1
+68fa2283-83b9-4f88-8801-33f8b2b42397,Facebook,UK,12,4.84,9,97,32,1,1
+444dca2d-cf97-42bd-92f3-197d11903cea,Referral,Germany,2,11.06,3,81,57,1,1
+222b90a9-8792-4607-9dd9-cd8cd279a114,Facebook,Canada,8,29.95,4,70,32,1,1
+4e61fdcf-ed98-42bf-b9c4-76214ab1e637,Email Campaign,Australia,6,22.47,1,22,61,0,0
+e1df854f-dec7-4e73-a87a-2df749d46543,Email Campaign,India,14,11.62,5,20,81,1,1
+7c869f89-5b0a-46a8-82fb-c4b4787694cc,Instagram,USA,16,29.46,4,37,54,0,0
+99a4e5c3-150e-475b-8b54-e2145adc17d4,Google Ads,India,2,22.25,2,49,94,1,1
+3826a60a-fb94-4f48-83d5-6314adc29a7f,Email Campaign,Australia,3,15.02,5,98,48,1,1
+ee337c4b-a075-4db3-87f3-6cac6f09fbd0,Email Campaign,Canada,7,21.52,1,91,65,1,1
+23f15aae-abb3-4bd7-a5be-dfbd2ea7472f,Instagram,Germany,13,11.0,3,93,87,1,1
+447c9130-cad9-4872-af55-08f5673f74dd,LinkedIn,Germany,2,16.33,1,55,53,0,0
+712fad78-4889-4760-965d-a80b3250505b,Instagram,UK,9,26.11,2,30,74,1,1
+3a43eb27-e4b4-4102-9d81-4dfee1a987fe,Referral,Canada,14,18.97,9,91,74,1,1
+3e622886-eb1d-4e8d-ae68-8154fb508662,Google Ads,Australia,18,14.56,0,75,97,0,1
+49650b57-3f7b-4c15-a038-af43cb52b6ee,Email Campaign,Canada,18,17.67,9,49,40,1,1
+92b538f3-a523-4c19-a211-a32744003956,Facebook,UK,13,25.02,9,76,76,0,1
+080c2122-821b-41f6-af12-a11faf342ec6,Email Campaign,India,17,16.35,4,39,92,1,1
+c2017083-bbe9-45eb-8754-70f922da6c88,LinkedIn,UK,11,26.89,5,85,62,1,1
+d0b1f206-2223-46e7-96c4-2eae9757896f,Google Ads,Canada,14,28.62,7,37,79,0,1
+5e4456d3-8731-404a-917e-0f1abfe1de12,Google Ads,USA,3,6.12,4,60,71,0,0
+3ebefa96-82da-48c7-9a64-e965cbc352d9,Instagram,Australia,16,14.4,8,19,79,0,1
+6b1fef74-9f82-4ec9-83a1-5f7b316c8436,Instagram,UK,14,12.71,6,70,57,0,1
+57d54de7-19df-4e16-bf48-7261f48966fc,Facebook,India,11,15.77,3,98,65,0,0
+ecdd301d-51c6-41ec-bc23-e938aea4f17a,LinkedIn,Germany,13,4.77,6,27,51,1,1
+3722c7b3-5acc-46d9-a9cf-13aeb310cdfe,Instagram,India,6,24.15,3,84,50,1,1
+d98f5f68-3fa2-43ee-a9b1-f0d024ac1c0c,Email Campaign,Australia,2,3.17,5,77,98,1,1
+a89dbf46-0dd9-494a-99f4-3710bd5a64f9,Referral,Canada,6,23.49,7,38,36,1,1
+af068af9-d8bb-49b7-b2a8-011c83dd07bf,Facebook,India,11,9.8,5,99,98,1,1
+2a1f5b76-7013-4365-b27a-addc24473c0f,LinkedIn,India,11,20.45,9,26,87,0,1
+e8826ac7-b394-4f7d-8223-bdc44abb7771,Facebook,Canada,14,20.9,5,10,80,0,0
+bdb81b1c-27c8-452d-a3d7-6d25070dfb8b,Instagram,India,10,24.01,4,24,43,1,1
+3511db4c-1a62-4990-9a55-35c96d131eab,Email Campaign,Canada,11,15.94,1,81,98,1,1
+eb69eb29-bd8f-4563-b09f-5b9005ca8fdc,LinkedIn,Australia,8,22.28,5,61,90,0,1
+49c4a5a4-a123-40ea-9831-3934dfd2ae72,Email Campaign,Germany,18,29.14,0,64,44,1,1
+03485e3a-c280-4e0b-8cdf-0f41a7f6f9e0,Email Campaign,Canada,13,27.32,4,97,41,1,1
+7435b159-0e27-4daf-b9fe-8b81d91ea0aa,Facebook,Canada,15,7.53,2,93,53,1,1
+d83f7df7-9d5a-4aa4-9f12-de415bbb3287,Referral,Australia,1,20.03,0,22,51,1,1
+f33223d9-00a5-402b-a31e-1cf969598341,Instagram,USA,2,22.99,8,34,82,0,1
+f41c6cce-1b8f-4013-9942-03b97f4f7513,Referral,UK,8,22.77,7,84,80,1,1
+38643f4a-7a09-453c-87ae-d7df4462c990,Referral,Germany,14,9.79,1,94,89,1,1
+5c70406e-c439-49f3-943e-eeed39779d72,Referral,Germany,14,20.7,8,24,96,0,1
+b81ae6eb-f103-441e-a9f9-6507aceda72f,Google Ads,UK,10,9.16,0,43,44,1,1
+6a07063b-7e45-4892-8baa-b623a137fb1d,Instagram,UK,15,17.52,4,62,45,0,0
+7529e0fc-7ccc-4b66-b4d6-06914da948d1,Instagram,Australia,19,16.12,3,16,40,0,0
+aff3f430-a221-4f2d-9898-2ef07e6c26f4,LinkedIn,Germany,3,1.92,4,58,41,1,1
+6f0f2b15-48c2-4ab4-9eae-da1f765aa806,Google Ads,UK,15,14.78,4,37,35,1,1
+7f891dfc-8ce8-4be6-a6e4-64475ce3d309,Instagram,Australia,2,9.98,0,81,71,0,1
+e67febcb-a3d9-4cd3-9c36-47614d29b378,LinkedIn,Canada,18,20.55,9,23,56,0,1
+64fe91f7-72e5-4db8-aa43-9bd1871bb379,Facebook,India,1,11.32,6,50,46,1,1
+88ddf4a2-9ead-4e6a-b193-d59fdee93d7d,LinkedIn,Germany,12,17.18,1,33,42,1,1
+7f8c6f47-13fe-4fc3-9a64-d72081d40194,Instagram,Canada,17,1.5,4,49,36,0,0
+99fcb2c4-20c8-4f4a-aa1b-0420b5963c7b,Facebook,UK,1,14.45,6,92,94,1,1
+dbf53cf1-e9b8-42db-98ec-7d8f19805fe3,Google Ads,Germany,14,7.2,4,78,45,0,0
+e9015e17-599a-4c60-ac5a-b1495924a45a,Facebook,Canada,19,4.16,0,83,48,0,0
+5b732d49-9cd0-40fb-88b0-d5b16d4ae283,Email Campaign,Germany,12,11.33,1,30,90,1,1
+cee84917-7ba2-4215-973b-44c626baf058,Facebook,Germany,16,9.41,0,41,64,1,1
+2426ec46-fea8-41e2-b25d-ce9603187af4,LinkedIn,Canada,3,27.62,6,66,75,1,1
+7ece6876-2420-4a99-b5b6-22d9876e6a5b,LinkedIn,Canada,7,21.93,4,40,74,0,0
+7c6e5267-fafd-4180-8ed4-1c0619cfff37,Referral,UK,16,23.67,2,72,51,0,0
+cfa9f217-0967-4b4a-a93b-7bb4f117be04,LinkedIn,USA,2,27.73,9,16,75,1,1
+b03041f6-61fa-4029-a2d2-0164828598d2,Facebook,Canada,6,28.37,1,32,59,1,1
+1efd4e60-d149-4826-a160-6abc3f285f76,LinkedIn,India,14,3.57,1,71,34,0,0
+d75ef6dd-6410-4607-9307-b71215dc20f2,Referral,USA,15,23.28,8,31,35,1,1
+2da68b20-2580-4054-b9b5-cf8adcda296d,LinkedIn,Canada,10,16.58,7,32,34,1,1
+07b2d9ba-bb58-4ddc-963f-2dcbb17d8d06,Instagram,Germany,12,9.66,7,11,55,0,0
+ec2b6e7b-a00a-4f66-a4a6-a711b85c5f21,LinkedIn,India,16,25.56,6,64,97,1,1
+1b4e9fa2-f96a-467e-a3f2-37e427b1fef1,LinkedIn,India,8,1.29,4,91,94,1,1
+c1614e1c-df67-4d1d-87c9-0c23a1770f34,Referral,Australia,19,21.55,9,89,73,1,1
+be362fb9-5ae1-4c5e-a05a-25f3e3523933,Google Ads,Australia,17,0.78,6,21,41,1,1
+f837019f-95e4-43c9-8395-4e12c8528f3c,Instagram,USA,1,21.37,7,23,66,0,1
+bba81d4a-aa7e-4b4c-97b5-eb134148e6fa,Referral,India,10,25.91,7,53,59,0,1
+cc8c4323-72ab-4302-bed0-935240afc8ae,Google Ads,Germany,9,1.82,6,39,56,1,1
+7e0e1959-67b4-4e63-a321-39da50170bb2,Facebook,UK,10,20.34,9,59,96,1,1
+8fc2b4f8-c062-414d-bb7f-280ed0f433d2,Google Ads,Germany,3,5.24,1,50,87,0,0
+0b10b8be-15ec-46bd-8234-01885b2ff0dc,Google Ads,UK,9,22.58,1,91,52,0,0
+0a581dac-fb8d-472e-bc8a-a40c3f27a728,Facebook,India,2,5.88,3,59,60,0,0
+464b5d57-a74f-490b-8eca-ab92b00c1ce9,Google Ads,UK,7,8.99,8,98,94,0,1
+dd8ea0fe-f557-48ce-aa3c-97d7e23c122d,Referral,Canada,18,9.59,4,48,70,1,1
+2e1de8f4-2ac2-40af-9af3-fe3d83ea7768,Instagram,Canada,10,8.82,4,22,71,1,1
+7440244a-43c7-4ad9-80dc-6f409a53d551,Instagram,USA,6,6.43,8,18,46,1,1
+5157002f-65c2-435f-9126-e7ab6fe4f50a,Instagram,UK,16,7.45,8,74,35,1,1
+2d18236e-9791-4e2b-8230-64cc4d2f4934,Email Campaign,India,17,3.1,7,13,54,1,1
+41d77281-2cd4-427d-9d8b-f6510ec6cdb7,Instagram,India,9,7.41,7,31,40,1,1
+7403af4f-8746-4cf5-8e8f-34a23b413cfd,Google Ads,Australia,4,26.48,7,70,87,1,1
+d52c0df3-0364-4e0a-a665-d3422a4218fe,Facebook,UK,8,11.23,9,99,94,1,1
+1196756a-7574-478b-a30c-41a80e0d672a,LinkedIn,USA,13,25.19,3,52,59,0,0
+b37e1de0-090f-4499-bde6-87530081ebc5,Facebook,Canada,14,0.52,7,53,97,0,0
+6b68ab83-ee10-4986-a7ec-e69331fdbcad,Email Campaign,Germany,16,8.28,2,70,90,0,1
+869584d3-73fa-4a7e-bade-5b2441182a93,Instagram,UK,16,26.85,3,31,94,1,1
+d613a71b-5142-4912-96e4-c61fd320ab25,Facebook,Australia,13,29.55,4,21,65,1,1
+be476f73-25bf-4a4e-8394-f3ea08507dd3,Instagram,Canada,18,4.52,9,22,54,0,0
+23ba3b29-938a-498a-8afa-c91fe459a3ae,Google Ads,Canada,7,1.64,4,28,72,1,1
+4d76431b-8965-4453-b494-29f5f32d422c,Instagram,Germany,12,13.19,7,37,41,1,1
+1194ca22-acf8-41cb-854b-af1ab12c7a19,Email Campaign,Canada,18,16.49,1,16,70,1,1
+7f46cff6-9879-4482-9a10-a7a8917444b5,LinkedIn,India,13,11.14,6,31,35,1,1
+7fd54382-5230-4958-909c-278ff073a1c9,Google Ads,Germany,3,24.18,4,38,53,1,1
+7064292a-d7c0-46e1-83ea-a2449a806686,Instagram,Canada,5,29.58,3,96,30,1,1
+8508b12d-6d62-4ba4-a1e9-2361c9064afc,Instagram,UK,6,15.65,9,75,42,1,1
+782facb8-09ca-4ea0-a611-f3b0f7a1e033,Instagram,Germany,14,11.79,3,34,85,0,0
+14ca246c-04ec-4066-b396-b506552f40fc,Referral,Canada,15,26.02,8,86,37,1,1
+82fd568c-701d-4fa8-b8a1-6b94ee7ce374,LinkedIn,India,19,13.51,3,86,47,1,1
+720c3c58-c8c3-4c71-b93d-6802bc411062,Email Campaign,India,5,21.13,5,30,75,1,1
+d2300969-e1f4-4c70-94d7-99e8275b5539,Facebook,Germany,2,10.3,2,45,86,1,1
+90a8b2a8-5533-42b1-bf26-95a6ebfd9776,Referral,Germany,14,26.1,4,74,71,1,1
+a7c458d8-4fc5-4450-a583-3534e645f205,LinkedIn,Germany,19,5.14,2,66,41,1,1
+8741758f-1c87-452d-ab5e-824df29c1d4b,Facebook,UK,15,6.72,5,34,32,0,0
+4f36a17e-2ad6-4bbc-906a-a1e5be74ec94,Instagram,Australia,18,15.47,9,86,30,0,1
+0ee36ccb-61fb-449b-a80f-bc28489cf5ec,Referral,India,9,4.14,3,43,43,0,0
+b4ea76ec-31e9-43b3-861c-435a2b12c39f,Facebook,Germany,9,13.72,7,27,80,0,1
+f24b0824-b586-4ba2-9953-8ecab754833b,Referral,India,18,0.85,1,55,93,1,1
+c9435afd-42ad-4360-855a-3a955eadbd27,Instagram,Canada,3,23.99,8,56,67,1,1
+7290ed5f-b35a-4c54-a3c5-5336e05a66f0,Email Campaign,Canada,13,28.93,6,49,66,1,1
+170a1c46-1620-4a56-b6f6-47617b830c33,Referral,Canada,15,24.45,4,65,93,0,1
+611f4c1f-e0a8-4ceb-ae1d-d3e7ed847ba2,Referral,UK,1,14.51,8,84,38,0,1
+24b757d8-ccf1-48bf-b995-c949909c0c46,Email Campaign,UK,6,28.42,8,16,58,0,1
+bd69fe7b-4ec9-4b7f-aa4c-63cd9eea9a8f,Email Campaign,UK,18,7.53,3,94,30,1,1
+8d8969f4-3e25-4e21-9310-35ee8569c507,Email Campaign,USA,1,14.83,1,34,95,1,1
+8a8c80fa-f0ce-4409-a251-4217cb7f6b83,Email Campaign,India,1,17.57,9,65,77,1,1
+3e5e6064-0417-456e-b983-e0bc4a989a96,Google Ads,UK,14,1.49,2,60,91,0,0
+ffdffc00-6c65-462e-accd-7bd7db333443,Google Ads,Germany,13,11.92,9,60,72,1,1
+629b1a68-d37c-40ad-bd6f-8a72cdddb10b,Instagram,Australia,17,21.86,6,54,52,0,1
+73b0978c-c111-49fd-8504-754e8069ace4,Instagram,Germany,7,14.75,6,10,56,1,1
+627c905a-acdb-4229-a7a4-f5d275789b6f,Referral,India,13,19.15,2,20,94,0,0
+3b89aa08-02fc-4679-9580-084043bd6f66,Instagram,Germany,18,25.69,7,77,89,0,1
+4c7805f3-3f2c-4f33-9457-5a3afa34f250,Google Ads,USA,14,18.62,7,55,75,0,1
+711d440c-f72f-4986-9e0b-daf5b9710ad8,Referral,Canada,12,6.84,5,49,43,1,1
+d2b762eb-584d-4212-b7ae-89d68193a0c9,Facebook,India,15,6.82,5,35,81,1,1
+d5c04b81-9e36-4c90-918b-aefd274d7430,Email Campaign,UK,19,19.0,3,65,78,1,1
+c479ad47-4165-48d2-8182-d34db8e7c2f3,Instagram,UK,2,27.03,3,52,36,0,0
+73185fae-2279-4108-b64b-4e45e7018d7f,Instagram,UK,16,1.53,4,46,67,1,1
+1fc137c8-6eb6-45ba-8e62-a0ed22a258f6,Email Campaign,Australia,19,9.16,5,86,31,0,0
+70287071-d133-4dda-b798-6e7a9c71f8e6,Facebook,USA,2,21.77,6,10,62,1,1
+4dc1f6f9-3e41-498f-89d0-60998ec3393e,LinkedIn,UK,4,10.64,0,70,75,1,1
+d218a2dd-662a-4e34-8300-87695e5b9980,LinkedIn,Germany,18,14.08,0,69,78,1,1
+945159b8-d6bf-483d-ad42-b6977361a5e5,Instagram,UK,10,18.3,4,19,75,0,0
+d03c1004-eb4d-4be9-90e9-7a30dce756b0,Email Campaign,UK,9,14.43,4,91,83,1,1
+8765625f-73a4-41ac-a2ec-146d597c7d22,Email Campaign,Australia,11,7.45,3,57,76,0,0
+c45c2ade-6536-46f0-862a-0a22364cfaf6,Instagram,Canada,1,28.85,0,72,91,1,1
+6886402b-85a6-4a0a-b99a-834a9b944f30,Google Ads,Germany,9,29.65,4,89,95,1,1
+2cbe37b2-0993-454d-baf7-c63d664bd044,Referral,Canada,17,3.46,6,71,52,1,1
+56a731cb-392f-4374-b01e-5714c7564503,Google Ads,Canada,2,2.11,7,18,60,1,1
+78f7ac2e-9063-4633-9a2d-5a18932f83db,Google Ads,Australia,16,4.12,5,44,37,0,0
+66c1ffa7-f9d9-411b-b348-4de020eaa8fc,Instagram,India,13,21.57,2,39,68,0,0
+7f3c4d4d-2ec3-4dad-960e-9d62047b4ff4,Email Campaign,UK,9,19.24,4,98,65,0,0
+cec7caae-2472-4fc5-8e06-826f23259380,Facebook,India,3,24.78,4,58,35,0,0
+87b57f76-792a-4634-97f9-3bbff0de5392,Facebook,Germany,2,15.29,0,56,61,0,0
+9b485900-2a73-42d8-8c5d-8614b54a907d,Facebook,Australia,12,16.88,3,97,74,0,1
+5ea74663-b459-4f8b-963e-bc30495845f5,Referral,UK,15,9.47,3,21,63,1,1
+8cc12c92-4852-4515-9074-11f0882662d5,Instagram,Australia,3,23.0,0,70,44,0,0
+bd033289-4151-4dbd-9111-dd7824c86ed7,Referral,India,16,24.1,1,84,39,1,1
+98fe93a4-f8a6-4107-b775-739b26305f6d,Google Ads,Germany,2,25.07,5,58,38,0,0
+d05a9171-1b3e-41b3-bc45-60f2f5243420,LinkedIn,India,18,18.67,1,87,81,0,1
+f80a1402-d8f0-4871-9db4-087ed9bed70a,Referral,Canada,4,6.2,4,59,82,0,0
+00ebc808-4da1-45c7-8fde-0dda87da13ac,Google Ads,UK,5,6.36,5,59,79,1,1
+c4a99bd5-f8cd-45b3-827b-11428f534ab3,LinkedIn,Germany,9,3.14,2,41,48,0,0
+d3acff08-5d48-48bf-8ece-3e85f78207fd,Facebook,Germany,18,20.11,1,78,41,0,0
+7ccffa1f-6810-4a44-9eec-8d9c1835a65b,Referral,UK,2,11.12,6,38,83,0,1
+b025b93e-41a4-4645-a56a-9e599a7a8d82,Google Ads,Canada,4,29.72,0,17,90,0,0
+4f57b1b7-24eb-4d30-add2-8e04fd085dbb,Facebook,Canada,17,21.93,9,95,74,0,1
+5edd196c-ccf0-497b-8791-c80cea2ba67f,LinkedIn,Australia,15,26.7,2,29,42,0,0
+50f88e82-99e1-4266-a63d-b75af82c3a99,Instagram,USA,13,16.52,1,19,83,1,1
+26aa5037-f588-4156-a9a8-7d7e77991e7e,Instagram,Canada,18,5.12,1,81,39,1,1
+d764cf97-1344-4c92-94a4-9a29c5732caf,Google Ads,Canada,17,7.08,6,79,59,0,0
+e36c2b99-9bdf-4085-b925-26d65c279e0f,Google Ads,USA,2,28.87,2,21,62,1,1
+3ca241b0-110b-4912-8b80-c5520060749b,Instagram,India,13,20.38,0,73,55,1,1
+c282b90e-97d9-46c0-a363-9e05e190e019,Facebook,Australia,6,1.84,6,93,73,1,1
+9df6b256-400c-4d62-af46-1439e96e961c,LinkedIn,Germany,8,27.08,3,87,70,1,1
+eb91dec8-a2bf-4112-9299-0d4c1df44a39,LinkedIn,Australia,9,10.48,1,35,30,0,0
+f7e38bb9-e9f3-41d5-9c6b-224fab6af1d2,Facebook,USA,10,18.35,8,57,79,1,1
+e35ee3c0-8d61-499a-bdf6-0206110ecf31,Email Campaign,Australia,11,0.97,9,20,30,0,0
+8f44df52-b2e6-45e6-a862-f2b5c5a706a6,Email Campaign,UK,16,8.25,3,38,47,0,0
+13bf0ed6-1e35-479e-9453-d53661488726,LinkedIn,Canada,18,7.34,5,60,40,1,1
+214606da-2ae0-4700-ab68-76afb794c85f,Instagram,India,18,29.87,6,47,77,0,1
+f39d4a2f-825e-4f89-a678-a4b76034a5f8,Instagram,Germany,7,17.96,6,71,58,1,1
+e020304d-71ac-45a7-ad2c-b5864efbd43b,Referral,Canada,10,15.92,9,34,62,0,1
+b15ab68d-46bb-4b35-9579-953fdf3070bb,Email Campaign,Australia,15,22.67,8,98,38,1,1
+f2c716f2-a6b3-49ce-9e39-1f88c867b54a,Google Ads,Australia,1,14.87,8,25,88,1,1
+14425181-fac8-4a65-a037-28aba75692bc,Instagram,UK,16,16.92,5,16,34,1,1
+14eb2feb-dc04-44e8-a9f3-b2fc2fd61de3,Referral,Canada,2,1.09,7,48,32,0,0
+a3416b44-6150-4d84-8c32-88d4ed010863,Facebook,Germany,1,23.91,7,33,92,0,1
+71a466ae-38f6-432a-9575-4e6708c0cebe,Google Ads,Australia,13,23.26,0,46,36,1,1
+97276d5a-df7d-4577-9da9-0d586488be53,Instagram,Australia,18,12.27,4,68,46,0,0
+0ce29578-74f4-42cf-abe4-06aa6ee09739,Facebook,Australia,12,12.96,3,70,39,0,0
+73346b68-ed90-41be-b209-5e469185db07,Google Ads,India,7,27.53,6,50,53,0,1
+f84f35f6-e973-4015-81a5-848484c95ec5,Google Ads,USA,12,25.51,6,39,99,0,1
+8b2aae18-bcc9-42d8-960c-958dbeafbe69,Instagram,Canada,7,1.72,3,95,75,1,1
+ebcab19b-e988-4fb3-b7da-bfcf940ca03c,Instagram,Canada,4,22.23,5,58,89,0,0
+a0d84c52-d271-4fa0-9b2d-ff58c5da8be4,Referral,Germany,19,25.6,0,44,79,1,1
+b866cc9d-075f-4cdc-b1e1-3da7a422a48f,Instagram,Australia,16,1.65,8,76,71,1,1
+890de11b-b2b1-42c6-a932-b082375161ec,Referral,India,10,16.74,6,70,54,1,1
+c567da52-3309-48a4-bba7-238b5fa02bfa,Facebook,Germany,2,6.78,1,50,85,0,0
+ce3d2d3b-12f3-4e73-b9e8-c8329368a662,Instagram,Germany,11,0.52,3,65,61,0,0
+64380e71-578d-4814-b6a1-4ba2a06486d8,LinkedIn,India,15,11.97,4,12,36,0,0
+e1de9f3b-df6b-4e96-b89e-2be3f7a606a0,Google Ads,UK,17,18.26,7,29,47,1,1
+95b0d5b4-d26a-47f7-9fea-0a7697bca1ba,LinkedIn,UK,8,22.31,2,84,61,0,0
+0a096b03-01e0-461b-82d5-7389c9f0f14a,LinkedIn,Australia,5,1.57,9,40,80,1,1
+c107879d-1245-4a7c-992f-1515fe2ae27b,Facebook,India,12,27.23,9,28,71,0,1
+3a001438-f8ae-4236-adc6-12a83c7b5ab8,LinkedIn,USA,12,6.63,8,74,76,0,1
+98d7b2a7-9a02-464e-9819-ff6c46783729,Instagram,Canada,6,15.02,9,84,66,1,1
+b281d274-711a-490a-8892-8223df07c768,Facebook,India,6,6.93,0,15,40,0,0
+b69c8826-ecd1-4219-95c2-49ff8b3d8bc5,Instagram,India,9,0.6,2,49,70,1,1
+9a0b877f-d42a-44b7-a327-9e1badde8943,Google Ads,Germany,9,6.22,9,30,54,0,0
+ddb256da-f934-4459-85de-ed2e8b7bb2a9,Referral,India,9,2.81,8,75,68,1,1
+db18a5fa-995d-40e6-a38e-2bf5b2d7a880,Google Ads,USA,11,14.55,5,15,63,0,0
+a839fe71-59dd-4690-be3b-d5d397af0cb4,Email Campaign,USA,4,15.99,8,64,95,1,1
+fd9dc57b-252d-4daa-9989-488a32f46424,Instagram,USA,5,11.35,7,83,39,1,1
+1c3e1ce1-737b-450c-bf29-1abdb6a03d41,Google Ads,Germany,4,23.01,2,42,34,1,1
+2009b823-aadb-4cf9-bd69-6a81d58bcdf7,Google Ads,Germany,5,26.2,3,36,30,1,1
+46cf5856-eca3-4a49-8472-72339883f450,Email Campaign,Australia,10,11.86,8,58,44,1,1
+02e11a4a-6050-40b6-9979-09d98df999cb,Email Campaign,Germany,11,28.28,7,95,40,0,1
+7dc9776e-84fd-4187-8007-41c0aa932a07,Facebook,USA,13,4.83,4,41,35,1,1
+d1cfeabe-bde6-4190-bd14-32b21c7eee47,Instagram,Germany,15,27.21,5,47,68,1,1
+d7b70532-8fc1-4e3d-9ca1-32a894c0c946,Referral,India,10,20.6,0,22,61,0,0
+b22e2a35-cc86-49e6-8824-77c1f488cddf,Instagram,India,15,12.09,4,95,55,1,1
+f6ac7b7b-2185-46e8-b332-adf6226ed481,Facebook,UK,16,21.96,0,61,77,0,1
+2d177749-439e-4f3b-a039-a9042e349fc9,Referral,Canada,7,26.4,4,14,60,1,1
+5802c285-a2ab-4c0c-8155-e6b0a5d15d3d,Google Ads,Australia,4,18.76,3,90,96,0,1
+a8c9af61-26f1-422f-bc52-883028ac8c8c,Email Campaign,Australia,3,19.08,4,88,51,1,1
+0b57f182-956a-488b-b2ca-97c751e7ee44,Instagram,UK,6,27.39,6,55,46,0,1
+30ad21c1-b790-4287-8404-2d91452f0f78,LinkedIn,India,5,1.96,0,28,63,0,0
+0b8cd632-c7d5-4e55-85a4-7b570226787d,Instagram,Australia,11,7.49,7,28,30,1,1
+b1fabf84-8cac-4e02-b19f-cb85e6ea605d,LinkedIn,India,19,8.57,0,64,42,1,1
+8b456562-0d04-4f5e-b6e7-039d601cfd56,Email Campaign,India,9,25.95,0,20,69,0,0
+3823cf36-fa55-459c-858b-0d280d8cde23,Facebook,Australia,18,29.5,9,21,59,0,1
+f7e1f064-310f-4575-ac3b-53092b1f7c9f,Facebook,Canada,9,13.81,2,91,46,0,0
+aea2b38e-f70e-40cb-a435-b5fc014152f7,Google Ads,Germany,14,11.97,4,74,47,1,1
+1bf40979-ba2d-4105-9715-7e67b363fb5c,Facebook,Australia,8,16.01,0,84,88,0,1
+053b8968-f01a-4885-bb09-68496ace48a4,Referral,Australia,6,18.92,1,31,79,0,0
+4b107800-0ed3-4b29-bf39-c8d3ed8f3748,Instagram,India,14,1.11,4,15,58,0,0
+eed185c3-2f98-4ba0-bc44-17432fe43ded,LinkedIn,Germany,1,12.21,9,76,85,1,1
+fd7de1a3-cae4-4085-aff9-3483b4e4249b,Referral,India,3,8.61,8,81,42,1,1
+6fd9a93d-d542-4e08-97ce-54d021155fd6,Referral,India,10,2.65,3,39,57,0,0
+210bb2c0-cdc4-4e88-95a0-6b9fa1b6cc1c,Facebook,Canada,7,24.82,6,68,90,0,1
+504fe033-6a8d-4e6e-905b-77305e96e046,Referral,Germany,4,9.21,1,34,81,0,0
+2af96143-4ebf-4f0e-8dc9-3a23d4d4c193,Google Ads,Canada,4,24.21,0,72,92,1,1
+cead6b31-1e85-455d-a665-8764794d19e1,Instagram,Australia,1,26.88,6,19,38,1,1
+33905095-2fb1-4b8c-b3dd-c0b995f6529d,Facebook,USA,8,21.89,3,82,30,1,1
+2318c934-d5b5-46f7-b9ca-c20b227d7985,Instagram,UK,11,20.13,5,45,75,1,1
+6a512643-e669-4d73-a225-c685ff174ce7,LinkedIn,UK,1,14.46,8,35,64,1,1
+e3fa0266-8b8d-490d-97cc-5d935da42db3,Facebook,UK,9,19.29,7,82,90,0,1
+cbfff71c-449c-46de-b474-0c6e7c658470,Google Ads,Canada,6,20.57,4,13,80,1,1
+e763d1e1-74da-4add-af21-44234f61e340,Email Campaign,UK,10,3.1,8,33,36,0,0
+cfae5a3d-2e48-421f-902d-c3459715f95e,Facebook,India,6,20.67,6,40,87,1,1
+c8ee55ca-694a-4dd7-8ad8-66e6ef168e48,Email Campaign,Germany,6,21.89,0,38,45,1,1
+8b2e6cb3-06ff-4ae0-b72c-ddb7c721531b,Instagram,India,19,15.28,5,33,51,1,1
+440a1319-46a2-4fa3-8224-6ba3a3d22978,Email Campaign,UK,3,13.03,8,46,81,0,1
+970d2dc4-cdc6-48d8-a351-5a27060e5e43,Email Campaign,Germany,13,16.68,8,50,74,0,1
+961ad4c4-205b-4b3e-bec1-e82bad4013a2,Instagram,Germany,2,18.13,3,68,66,1,1
+63a68981-19c8-442c-a486-152264012469,Instagram,India,2,20.35,8,49,88,1,1
+ad3c1872-3491-4cb8-9ec6-e27c6ea69a87,Google Ads,India,6,23.37,8,86,68,1,1
+020a1f7d-5f94-417a-966a-98987cb73b7f,Email Campaign,UK,8,28.86,1,49,35,1,1
+96e9cf1f-da8a-40c8-9e55-3f12dd038651,Referral,USA,11,17.49,8,77,85,1,1
+2b813346-c96f-4d83-9434-26a66efd2c5c,Google Ads,Australia,7,27.95,2,80,41,0,0
+d16a0e98-f265-4ffb-a761-f24be51a061c,Facebook,USA,5,9.02,3,10,89,0,0
+cd12f2e8-dfd3-48d5-890a-21ff13661853,Facebook,Canada,1,2.63,4,13,97,0,0
+736398c4-19e0-428c-a041-3d30478f09f1,Google Ads,Germany,9,7.71,6,65,77,0,1
+225362a7-beb3-46a1-b375-89862170bacc,Facebook,USA,13,4.81,5,23,76,1,1
+e0802da3-1ff6-46d1-a59d-3a6343ca2352,Instagram,Canada,2,7.26,2,64,68,1,1
+d1873292-bca7-4c2f-aad1-a04f68c367cc,Referral,Canada,4,19.87,2,71,52,0,0
+0d65d2ef-ff29-40f4-a228-5c20b1b6acc3,Google Ads,India,18,24.77,3,60,94,0,0
+644f8cf3-20fa-4bd6-ab08-52aaac577e60,Google Ads,Germany,19,27.8,9,85,34,1,1
+8dee4a26-62dc-4327-8b2f-122ad8d549ec,Google Ads,Germany,4,7.3,1,73,76,0,1
+70b62fe1-85ca-4ef7-94ce-71162ae68627,LinkedIn,Australia,4,21.88,3,24,54,0,0
+beecc743-041e-44d9-9c35-49ed354116bb,Google Ads,India,8,29.02,3,75,84,1,1
+fae55777-bb04-43c2-942d-b4e094525ce1,Instagram,UK,11,4.54,6,72,45,0,0
+fdbc719c-3317-42fb-b390-2e24b89b798f,Instagram,India,18,18.3,1,79,32,1,1
+bfc2ece9-7cf3-48d8-bf4e-d654d83e7ca9,Email Campaign,UK,18,14.99,6,83,87,0,1
+795b6aa7-a7d5-45d4-81b0-2815eb96a707,Referral,Canada,5,13.4,0,14,54,1,1
+ef7ae709-6ff1-48f3-84a9-bdac0b57fa05,Facebook,USA,8,10.4,6,72,97,0,1
+b8dcf2ba-fdac-4198-bd8d-608e8d021fb9,LinkedIn,UK,4,23.73,6,51,84,1,1
+ea3b0007-d45d-44da-8fb4-fc2b26d7d6eb,LinkedIn,UK,17,19.63,7,31,53,1,1
+29a55943-8a30-448c-90f2-0f93654bd147,Google Ads,India,16,21.69,3,75,89,1,1
+2bf98719-aab4-466a-8013-52458cf1c223,Google Ads,Australia,1,17.88,1,61,34,1,1
+745106e2-23ef-4c5b-911a-687dc9077125,Google Ads,Australia,16,5.15,6,60,68,0,0
+ad9f51dd-0118-4e2c-989d-620804147c4f,Google Ads,Germany,2,10.57,7,27,51,1,1
+477b069a-35fa-475b-a7b8-d22dbf8535e6,Email Campaign,India,11,19.94,3,63,78,1,1
+b6da7bf4-2486-4165-a9e5-b6ea2e038dc4,Facebook,Australia,17,15.47,8,44,63,1,1
+4a622427-27e9-45d2-b1dc-ce0267f09d4c,Google Ads,USA,6,23.44,6,81,85,0,1
+966fea07-8ecf-456b-8491-580bf52b8875,Referral,Australia,5,15.36,2,72,78,1,1
+45166a62-3d4e-475c-9b3b-183287b29c11,LinkedIn,Germany,12,16.7,8,54,78,1,1
+7f9edafd-aba1-4ca9-9f58-9dea3af409e9,LinkedIn,Australia,3,24.24,4,98,70,1,1
+52018f31-d225-45f0-aaa6-c5b016d1cec8,Facebook,USA,5,9.3,8,21,68,0,0
+92b71518-9c28-458f-8030-ef4487c02716,Instagram,Germany,6,18.15,5,24,39,0,0
+99e067c3-a222-4434-82b9-2feefd805104,LinkedIn,Canada,4,27.41,8,39,77,0,1
+0142dbe4-03a6-47ea-9bc2-7ef6d6f69ea9,Google Ads,USA,14,25.2,2,39,84,1,1
+a7602263-cf8c-4093-903f-9890627eeee0,Facebook,Canada,9,14.74,7,78,35,1,1
+be056017-84a2-4e0a-8824-8884a9c016d8,Facebook,Australia,3,29.56,3,64,84,0,1
+1e18299b-172f-41ca-819a-1311818f9699,Email Campaign,Canada,15,26.98,6,83,44,0,1
+df7c1125-0abe-47a9-9937-fbdaba88a2fe,Facebook,Germany,13,15.2,0,35,47,0,0
+e386ab95-b9ec-4e5d-bf9b-d9092f207eab,Instagram,Germany,5,4.96,1,86,65,0,0
+bc88fe49-b8db-4809-b90c-a8c7c73145c9,Referral,Australia,6,13.65,7,12,66,0,1
+4c6b891f-3628-41fb-b9e2-438d05efb7af,Google Ads,UK,7,15.4,0,91,43,1,1
+6df16e6e-b876-46c4-977c-40c1cff373a3,Google Ads,Germany,18,10.37,4,94,80,0,1
+f717f83c-389c-4ff2-961a-8a31a67aa004,Facebook,Australia,1,29.98,3,86,76,0,1
+cf6a04da-7a1e-47b9-b39c-8a0cb3330a6a,Facebook,India,13,23.12,2,43,85,1,1
+6fe22ec9-1936-44dd-a3bf-d29b1543ea55,Email Campaign,India,6,4.37,2,95,55,0,0
+98562af4-0f61-43f1-b2cd-54029f053ee8,Instagram,Canada,14,17.43,2,93,83,1,1
+19c5970a-2a70-42b6-9175-d27109835cd3,LinkedIn,UK,10,25.61,1,56,58,0,0
+775d8bf0-5e6e-4969-928a-f8f6884eeca8,Referral,Australia,3,11.49,9,95,59,1,1
+11be0c06-8fc7-46af-bc84-38e2d93f6878,Email Campaign,Australia,3,29.78,7,19,70,0,1
+43f50cbc-f8f5-45ca-9050-69f42795998b,Email Campaign,USA,10,17.74,3,13,43,1,1
+f91bddd4-731d-4c7b-9e22-3021f9559c00,LinkedIn,Canada,14,28.05,0,40,47,1,1
+2e4de20b-c457-4d2e-8438-c227bf72e6b7,Facebook,UK,13,10.17,9,54,47,1,1
+5969ee8f-2c29-4e21-a658-3b78c5169fe0,Instagram,UK,2,1.09,6,57,34,1,1
+f8c3bca2-8d97-483f-b8e2-ced0e44d4877,Instagram,Canada,4,27.04,6,85,94,1,1
+7586af7f-f912-44c1-8f5a-2f3c4ea6737d,Instagram,Australia,3,8.19,6,39,36,0,0
+693742eb-7518-453f-9db6-8daf0f2f78a5,Referral,UK,2,23.77,8,10,65,1,1
+7eea7210-9ad6-4239-a0be-c00eb2325ebf,Google Ads,India,4,26.92,1,44,44,0,0
+c443de17-9ff1-4d10-8e46-2ed4d0d977f8,Facebook,USA,14,16.32,5,74,91,1,1
+ffe71899-ec02-4a3f-bcf6-ea7274dff583,LinkedIn,UK,13,25.96,7,79,91,1,1
+a4300dc8-9fee-40cf-9086-6fcaafe92587,Facebook,USA,11,22.05,0,72,53,0,0
+ccf0ee85-f601-4454-997c-e7c854aa6d8c,Facebook,Germany,4,28.89,5,29,33,1,1
+d0ea9624-5b22-4c0b-afe0-072ca7d3bd4e,Instagram,India,9,9.54,7,77,48,1,1
+3a721000-e3a3-40c9-8a50-398f9538ab54,Email Campaign,Germany,19,22.1,6,38,49,1,1
+fec6443e-6e54-42ee-b0e4-bad9d74fd526,LinkedIn,UK,18,23.58,8,83,65,0,1
+e64b4abc-f387-49bf-b11b-feea251b0749,Facebook,Germany,9,25.45,6,16,56,0,1
+9c3042fc-5f99-4347-9e0b-9a7a51ae4fa2,Email Campaign,UK,4,7.99,5,11,83,0,0
+958a8882-6f32-42eb-b39e-515c45c13792,Email Campaign,USA,13,6.56,2,27,91,1,1
+9e89fb76-e12f-4db1-8993-e85c37c0cfd8,Instagram,India,8,1.96,3,54,50,1,1
+1596f146-46d7-4e11-b946-bb244fa42b0a,Instagram,India,8,19.92,3,46,69,1,1
+3eb52726-e613-4230-9da2-6d574326a439,Instagram,Canada,13,4.67,1,67,44,1,1
+a448cc11-2d77-4fc4-b63a-31df9c8e95af,Referral,Germany,2,6.49,8,69,44,1,1
+badf13b3-c3bf-4c49-a91b-9288f31e9cba,Facebook,India,17,7.0,7,73,46,0,0
+de9187c2-5533-4d43-a49c-a2140278056c,Google Ads,UK,15,20.03,3,64,80,1,1
+03b1144c-d012-4b95-b7ae-c45e7b10f157,Instagram,Canada,7,19.39,4,41,67,0,0
+1930f092-86ad-407e-9c84-ac86bf1b3474,Google Ads,Canada,19,25.44,5,75,95,1,1
+2f5cc633-e12c-4a47-a7b7-4b3857271732,Google Ads,UK,13,28.48,8,80,56,1,1
+ac5a2817-e07a-4bcb-a08c-206efbf2d4e2,LinkedIn,Australia,18,22.97,8,21,93,1,1
+34733af0-3cec-4b94-9ff9-566b5cdec2ab,LinkedIn,Germany,7,14.67,3,96,54,1,1
+627c2c30-ac88-48e8-985c-90dfd58a9cbe,Email Campaign,USA,4,8.47,2,89,49,0,0
+695eec2f-cd52-4dc0-b01a-1d40a018df52,Instagram,Germany,13,17.49,5,66,85,1,1
+e042957e-7bfc-4de8-9c04-edafa21194db,Email Campaign,Australia,2,29.12,8,20,33,0,1
+f6854b58-945d-42fb-a863-088cdb70b5d5,Google Ads,USA,15,8.11,6,28,61,1,1
+db4169a2-56d0-48b7-a538-cbe89098e42f,Facebook,UK,17,3.19,5,37,65,0,0
+156c947c-85b1-46fb-bfc3-5a6c7a20fdf4,Facebook,Canada,18,24.95,3,49,48,0,0
+2d062432-b5ea-462c-8443-8120961e5544,Email Campaign,Canada,15,24.49,7,12,68,1,1
+101bf9e3-0520-4385-b345-badcd6d7fa54,LinkedIn,UK,5,26.24,2,82,59,1,1
+20a38554-c86c-42c1-901f-db12245deffb,Facebook,UK,1,3.36,7,57,89,0,0
+01e675e5-f44f-48cb-b0b6-db647d9d1fde,Facebook,USA,14,27.9,8,16,45,0,1
+ce93bffb-4614-42a2-a48e-1a4b81828a03,Instagram,USA,9,26.7,5,73,93,1,1
+0ee6c585-8964-4f50-b4b6-21bc1462f16e,LinkedIn,UK,6,17.55,9,26,62,0,1
+f492314d-9909-4f1f-8307-ccfef2a52528,Email Campaign,USA,17,12.55,9,54,71,1,1
+fe64afb1-50a0-472e-937c-7107bc66feda,Google Ads,Germany,7,10.16,5,80,44,1,1
+d8c25280-54e7-44d4-8fa5-7c557f7bf013,Instagram,Canada,1,28.1,0,17,87,0,0
+ed3e0d0f-5faa-49b5-9dcd-e07e8a9009b5,Email Campaign,UK,2,20.7,2,43,83,1,1
+f321866b-e7c6-4aa7-a93b-bdb47175852d,LinkedIn,USA,4,15.45,8,93,37,1,1
+09911b3d-9648-46ea-ba31-bd191415c092,Instagram,UK,15,18.36,1,82,59,0,0
+95d7d481-4fa1-40d9-a159-0acef657057c,Instagram,Australia,12,6.68,8,94,50,0,0
+d7ba1855-e9bd-435c-832e-fac851e2f208,Referral,UK,15,29.06,5,95,62,1,1
+9a060d38-5120-46b5-a140-452fe41de2b2,Google Ads,India,12,17.97,5,22,73,0,0
+cd29ecbe-0254-4c49-b028-7529c5cb1c4a,Google Ads,Canada,13,14.14,2,68,64,0,0
+3d5f07a3-dbcb-403b-aeb6-2162c8749d21,Facebook,Australia,6,27.41,7,67,31,1,1
+73d1c68e-0563-4fce-9d17-03e323e516a2,Facebook,USA,9,19.74,2,21,78,0,0
+1e4d92f2-5360-4965-b281-efc7a78021fd,Email Campaign,UK,14,2.9,7,63,53,1,1
+af5d1578-147a-4aac-861f-c5031d9c9037,Email Campaign,USA,17,19.01,7,93,70,0,1
+cd542c2e-eb1a-468b-977a-708a46a56177,Facebook,Germany,15,27.11,6,87,72,1,1
+90403d2d-71f8-4697-b723-a809ea963ae1,Referral,Australia,18,1.18,7,92,67,0,0
+24155eab-fd75-4ea2-a565-0f30ae884ce2,LinkedIn,UK,1,15.77,4,75,68,1,1
+f3ac1ada-05b8-4aee-a127-85b645fc89f3,LinkedIn,Germany,19,6.1,4,31,93,0,0
+2b16450f-26e4-44bf-a752-c7be3032ab2e,LinkedIn,USA,1,8.44,6,27,36,1,1
+220149e8-ae87-41c2-ad01-3a9127eac37a,Facebook,Germany,17,4.21,4,49,66,0,0
+88d652d5-e7ad-463e-8c21-4a629e0c601f,Google Ads,Canada,2,24.37,6,84,37,0,1
+d0e26315-046a-4773-81f6-c7d8ac0c0ddb,LinkedIn,UK,18,9.09,9,39,51,1,1
+24cf8e38-899c-4fd8-b3ac-467544e1b89e,LinkedIn,Germany,7,12.34,9,31,60,0,1
+5b2a851e-e13e-4857-b488-34170b469aa7,Referral,Australia,15,4.01,1,26,95,1,1
+337e6cfa-f4d2-4683-8c24-f87d2591e222,Facebook,Germany,1,11.44,6,37,90,0,1
+40683ecb-0d14-452b-ae40-4ef35d4d22bc,Instagram,Australia,13,13.31,3,24,38,0,0
+5bb505f0-5544-4fb3-8c9f-5327a0fcdda6,LinkedIn,UK,19,26.82,1,13,96,1,1
+5c82e6a4-33ce-4ce5-9bc2-f082db8bd8fc,Email Campaign,Canada,13,13.08,8,61,35,0,1
+03f1e46b-219f-41ef-8905-2168774d8eaa,Instagram,Australia,12,29.17,4,36,96,1,1
+4f7ca808-b29f-401a-80e4-0a55ba2d398d,Facebook,Australia,19,19.8,7,78,76,0,1
+f0f3b857-cd41-4290-b024-7f9c8b902401,Email Campaign,UK,19,3.52,9,90,53,0,0
+50b90574-48db-4a1a-98a4-dded3e37fa5a,Email Campaign,Germany,11,7.55,7,58,55,0,0
+d80215f5-7020-4f91-b79f-b84f221c42a4,Google Ads,India,17,4.16,2,51,73,0,0
+15896493-31cc-4df8-8409-2a8d8bdbb2fe,Referral,India,6,18.46,7,34,49,1,1
+8c101a9d-33a5-4e48-83ad-626091affc1b,LinkedIn,India,14,24.59,6,63,75,0,1
+8fa0e22b-1f4c-4dd8-b7b0-e0d1b05454b6,Google Ads,USA,16,18.15,4,86,57,0,0
+e33b59e3-cf94-4e13-9547-a0317c32030b,Referral,India,10,6.49,6,95,42,0,0
+b7756649-2a09-45d1-b4b2-4a7a77cabfb1,LinkedIn,Canada,8,22.08,2,67,38,1,1
+81638a86-933b-44d5-bb18-6aed1f8becc0,Email Campaign,USA,18,20.36,6,48,79,0,1
+51568e1c-e9f1-4c9d-89d4-7628054a3fa2,Email Campaign,India,1,10.24,2,43,31,1,1
+9023b578-2f94-4f9f-a690-15f80925dc8d,Referral,India,6,20.65,7,23,96,1,1
+a1852651-4e66-46cc-b6d8-d2241d6c41ad,Referral,India,17,17.81,6,97,94,1,1
+88e766f2-96b5-4093-9ff9-e773934bfd82,Facebook,Australia,13,29.92,3,55,44,0,0
+6cb605f2-c8f9-455d-b984-6cbad2a27762,LinkedIn,Canada,7,15.9,1,39,71,0,0
+13151401-2af3-4ae2-b351-21d81d955e59,LinkedIn,Australia,18,18.02,7,99,99,1,1
+11e61c24-bf52-4c4c-bf58-654bc120b137,Email Campaign,USA,15,23.71,3,60,76,0,0
+19f12112-6565-43cd-896d-5d63d435541a,LinkedIn,Canada,1,27.12,4,24,40,0,0
+51e3b440-291d-4ae8-bc38-46a56d3c3e13,Email Campaign,USA,2,10.86,0,10,63,1,1
+a7bbba34-6f8d-4a43-b332-f806b0000bce,Email Campaign,India,14,25.2,6,31,94,1,1
+e1f23459-bc0a-48ce-9fb2-f1b6e255c792,Email Campaign,UK,3,7.91,3,98,93,0,1
+a94d1960-b554-44bf-b441-e3b08ff6b45f,Instagram,Canada,8,11.56,1,52,92,0,0
+9322c26d-2fc0-46fb-ac32-886a9ed65022,LinkedIn,Australia,18,15.2,3,30,86,0,0
+260e1e7e-554c-4186-ad39-d18797990cde,LinkedIn,Germany,7,9.17,9,12,37,0,0
+423139d8-d4e4-43ee-98df-899000a9e470,Google Ads,USA,4,20.68,0,68,35,1,1
+3c15c5db-803a-4997-84d2-889b714acf2b,Facebook,UK,11,4.33,8,26,41,0,0
+eade128d-ac23-482f-8a6e-1e00ade07c69,Google Ads,Australia,2,5.62,1,68,76,0,1
+42e636fc-8f6e-48f2-a05e-4b6219cb389f,Instagram,Australia,2,22.06,7,27,32,1,1
+b164e61c-37a2-40ea-b636-a956536072c0,Referral,Canada,8,9.22,5,18,91,1,1
+da9f7cc3-1730-4f15-b01b-28cba89bbc9f,Email Campaign,UK,17,27.97,6,75,51,1,1
+3ac84465-bc54-45d0-88e0-f6f3aa060803,Instagram,India,17,4.11,6,74,37,0,0
+dad0f024-b078-4ada-b029-65907b1a5997,LinkedIn,USA,19,13.67,8,79,80,1,1
+fb5c0ef0-baf4-41dd-b497-ebe7d078c314,Email Campaign,USA,18,27.89,1,37,66,1,1
+2445d70c-766c-4ce3-8152-bff1c29af977,Instagram,Canada,4,23.27,9,94,60,0,1
+c050df73-ccac-426b-beaf-d57c13c830ab,Google Ads,Germany,19,2.79,5,41,37,0,0
+998a7b7e-93ae-48c7-aa4f-0327ce432f7c,Referral,Australia,18,27.0,3,12,93,1,1
+b9696ae3-1973-4a93-b4b7-f95ffd9f6419,Facebook,UK,16,13.0,1,99,83,1,1
+66f5a0f9-df4e-4435-acf1-34559769f97a,Referral,India,14,12.93,4,81,84,1,1
+8939a271-15e4-48de-ae55-23f9d2cc6769,Email Campaign,Germany,5,22.62,4,24,46,1,1
+d356c744-6001-4ad2-bf86-550f73f18153,LinkedIn,USA,8,8.74,2,69,83,1,1
+8602eb10-a5da-4088-a1b4-6f49c9a9bd93,LinkedIn,Canada,14,1.65,6,61,53,0,0
+5e011a16-3bde-421f-90b7-54e536a0d6f5,Referral,India,18,9.93,7,59,31,1,1
+a5cb58e6-6b2c-4920-88c0-9bbbf8b4cd14,Facebook,Canada,2,16.7,3,93,93,1,1
+d2d14543-5260-47a4-ba35-d8bb2aec5ff8,Referral,Germany,10,2.87,4,30,48,0,0
+f1691848-1132-4c5b-88ef-7bc71e4bf046,Google Ads,Canada,5,18.07,6,84,70,0,1
+8d9453bd-425b-43fc-b4c4-11e7c9c46812,Referral,UK,8,4.8,7,19,65,1,1
+feb61e81-76a1-4092-8f11-c736d65b3a81,Google Ads,Australia,10,27.41,1,11,63,1,1
+763fec95-bfe6-4a36-9158-4ab41536acac,Instagram,Australia,10,17.36,4,25,65,1,1
+9aced55e-3ca3-4267-8acb-abe589cf784b,Instagram,Germany,12,25.43,5,54,40,1,1
+3977c641-a205-4299-840f-654cc9c66aa4,Facebook,Canada,10,24.48,4,70,34,1,1
+34b376ce-9249-43b7-ba4c-3d6d6df2c9d7,Facebook,Australia,18,25.5,1,97,42,1,1
+4965f5cc-5515-4861-99dd-b1b98fefcee7,Instagram,USA,3,2.06,0,83,31,0,0
+d05c3789-0f3b-4627-ac32-2a49c958ec21,Facebook,India,1,14.78,7,30,50,0,1
+4b4efa6b-96ee-481b-a263-e5efa68664be,Google Ads,Germany,13,24.89,3,80,95,1,1
+313b3525-77df-4541-99c5-64d49398ab25,Email Campaign,UK,2,10.33,1,96,75,1,1
+0dd12a22-15f7-4bff-a9c1-c496f8a0fba5,Google Ads,Canada,11,1.55,4,92,47,0,0
+37b80eeb-d4d9-49ec-8317-6da2249c146d,Email Campaign,Germany,18,19.37,9,65,40,1,1
+26859a0b-2bf6-403f-a3bf-8752ea764ce6,Instagram,Canada,18,29.35,3,81,74,1,1
+212d052e-0c44-4849-a0df-931d763a2a32,Google Ads,Australia,18,14.48,9,74,90,0,1
+29d3fb3b-3b71-4ab4-808c-a25f6ce7c220,Email Campaign,Germany,14,5.36,6,72,67,1,1
+964a1959-072b-43e2-9e49-7ef7370fcef5,Google Ads,USA,8,29.82,3,69,58,0,0
+8a0728d3-b42a-4310-8215-a0152618c261,Facebook,India,16,6.64,7,65,71,0,1
+c7b82715-e532-4e3d-87e2-e3321f118fc6,Referral,Germany,11,8.75,1,37,73,1,1
+15cd7b62-5fe3-45ed-9eb2-0bb3027b89d9,Email Campaign,UK,18,7.95,9,20,80,0,0
+f8034ab4-6314-4e6f-9077-ce87a74449e6,Google Ads,UK,8,27.25,1,24,90,1,1
+47637919-ed3d-4488-87fa-26230f90fecc,Google Ads,Germany,2,16.8,8,36,71,0,1
+661d9fc9-0e58-4f45-b06c-fa298a9b3e93,Instagram,USA,13,29.95,0,35,88,1,1
+84b4c51a-71c7-42e9-8478-c64a67295e5b,LinkedIn,Australia,14,6.6,2,51,77,0,0
+ca208f05-22dd-4c5d-bba9-aa928e2df53a,Google Ads,UK,3,20.96,0,49,88,1,1
+029fc97d-229e-4fc3-87c0-6ffb8819e77d,Referral,USA,10,9.33,8,12,91,0,0
+e3783deb-055e-400f-8401-023611cbe97c,Email Campaign,UK,17,3.81,4,87,52,1,1
+3fd0b5d5-9b60-411a-8633-435750cb782f,Instagram,Canada,5,17.38,8,89,73,1,1
+6fa4a822-aa78-4811-afc7-d9f77ad7aaf6,Facebook,Canada,18,21.01,4,35,37,0,0
+bfc1c880-d2fd-4eac-9bf2-1a6dc7dff258,Instagram,Canada,1,3.41,6,95,32,0,0
+f0738e78-343b-459d-91cb-d5e531be3515,LinkedIn,Australia,1,27.92,5,32,96,0,0
+f30e5506-8f85-4763-9c3d-837a8e24b095,Email Campaign,Canada,5,4.62,8,40,78,0,0
+633f09a2-3808-48e4-aa15-8dfaa03273cd,Instagram,Australia,16,15.08,0,40,49,1,1
+67c21bbd-68e3-4f16-ac20-f6bcfef4b25d,Email Campaign,Germany,17,15.16,6,66,97,0,1
+53aa9679-897e-4a2c-a4e1-58fe293546ab,LinkedIn,UK,6,2.03,9,82,63,1,1
+2e6e4d39-0035-4814-8aab-5a0b8867662d,Referral,USA,18,23.63,3,15,40,1,1
+193ca19e-47a4-48dd-bb1b-be45cab78bd1,Instagram,India,11,7.92,4,92,94,0,1
+9fd21059-8f54-4c59-af64-b50f0920b09c,Facebook,Canada,2,8.57,0,25,85,1,1
+104025d1-3e9c-4b49-9eba-6e636b820b57,Instagram,USA,3,16.09,7,54,79,0,1
+0e3256fc-9848-4a55-a159-efe4347216d8,LinkedIn,Australia,19,15.63,6,46,48,1,1
+ab38ce0d-ae39-4f18-9e38-1a17cc3bce18,Google Ads,Australia,13,3.89,3,44,60,0,0
+f3387bc0-7021-4a39-be3b-28ea5f14c83f,Instagram,Canada,6,3.3,9,87,96,1,1
+4199d68e-5fe0-46b5-8b2d-c0291b86a195,Google Ads,Australia,15,4.04,5,19,96,1,1
+f4d6b358-501e-4ed0-a770-f30e90518b4b,Instagram,Germany,17,6.75,0,16,34,0,0
+d2ef48ea-8a6f-418e-bf3a-fe9e35828867,Google Ads,India,6,7.04,3,88,64,0,0
+a932d766-44f7-4830-b727-1db528cacc07,Instagram,Australia,15,26.45,0,74,74,1,1
+49a1f612-9ef8-4c6a-b5c6-586d60a3d7f9,Instagram,Germany,15,6.66,2,47,31,1,1
+c4901cb6-b676-4e75-9d31-6f472d6f2230,Facebook,Canada,1,18.95,7,24,56,1,1
+00d59bdb-adfa-43b1-bd0c-f3137c464344,Email Campaign,Canada,10,8.01,6,24,44,1,1
+006c0cdc-8461-4ebd-9ea1-8021704a8430,Google Ads,UK,12,23.15,8,52,63,0,1
+08bb5de7-13a8-4ea4-ac12-41dd65deb4b5,LinkedIn,UK,4,25.64,3,43,80,1,1
+0485f3b9-ffd5-4133-aa97-0714bacf0db8,Facebook,Canada,17,17.97,4,41,77,0,0
+ec17a12f-6be8-4f40-aae4-83b86aa0e83a,Google Ads,Canada,16,12.97,8,12,46,0,1
+a6951425-566c-4d97-ade5-836d04c08e56,Instagram,USA,10,2.6,2,72,61,0,0
+88d147c9-d506-4911-ad0a-a74232e7aa52,Facebook,Australia,6,12.75,9,26,56,0,1
+68417720-42da-4e25-9f6f-f060652124c7,Instagram,Australia,1,29.01,1,33,34,0,0
+ca1d6394-5649-4862-a68b-f7aaeb5f9f91,Referral,India,8,22.43,8,50,30,0,1
+f636cf03-9302-458c-841c-463f0f7c573c,LinkedIn,USA,8,20.69,1,39,45,0,0
+72c3b856-dd3f-4c26-a1af-1111a15f8e7d,Email Campaign,UK,10,24.78,8,18,31,0,1
+33791962-81e9-4fa6-aee3-abd1c5b762cb,Facebook,Australia,3,15.51,5,71,93,0,1
+84e0aaf8-b674-47ed-8f12-fd3fb7b86f59,Facebook,Australia,6,18.69,9,19,43,1,1
+815ecbb3-737a-48ab-8dc4-8da58fd5a558,Referral,USA,12,10.29,8,19,36,0,1
+c1b34fc8-41d0-49a4-bc83-5de21a116a14,Facebook,USA,16,13.1,7,79,54,0,1
+8a4277bb-ccff-4a9c-a8d1-fe5466c73027,Email Campaign,USA,7,16.99,0,27,74,1,1
+e610998a-6889-4235-b821-fcff7b834cc9,Email Campaign,UK,3,23.27,8,80,62,1,1
+0acfa9ec-bf75-4df0-ab71-d2f2360a1d9e,Email Campaign,Australia,4,4.62,0,59,40,1,1
+fdeb51e0-a439-46af-b1f6-8f1ce5bc08cb,LinkedIn,Germany,10,2.32,8,24,55,0,0
+cbdf6ac7-8279-4253-8dac-ae773d53bcab,Instagram,USA,3,10.3,6,43,72,1,1
+97924821-58eb-45d7-af48-e556b9a754a5,Instagram,Australia,3,1.19,3,46,39,0,0
+32947510-970d-4706-b0f6-6904fe4a6f93,Facebook,India,5,5.77,6,28,61,1,1
+6c600d4a-9d0d-461f-9d66-8b4546e99ec4,Referral,Canada,10,7.2,1,28,64,0,0
+0ed6f406-64e5-4282-8dd7-e4016ce9db74,LinkedIn,USA,17,8.37,3,97,73,0,1
+a6780147-a757-4aef-a8f0-d957f848f54d,Instagram,Canada,15,8.44,8,82,85,1,1
+fa90d487-5080-47dc-8388-d681b50800f0,Google Ads,Australia,15,25.04,0,69,35,1,1
+baea33b5-f371-41b2-8a2d-9667d09900fc,Instagram,UK,9,12.35,5,97,43,1,1
+0a56a76c-854e-4491-8dbf-2716cda8743a,Instagram,USA,7,9.26,4,81,44,0,0
+adb363fa-ec02-4442-a17e-944170f6dfec,Referral,Canada,17,17.2,4,92,64,0,0
+9e616500-8a5e-4d5a-842e-778a1a65dd52,Referral,Germany,19,17.66,8,75,36,0,1
+8cbcf56c-1662-4fa2-b2a4-53480461ec83,LinkedIn,UK,14,12.73,5,67,86,1,1
+4bcbd97f-247c-41a6-ac3a-eb30accc5fcb,Facebook,USA,19,5.14,0,33,83,0,0
+4d1ea807-7cea-44c3-a154-282176142c7c,Referral,UK,2,29.03,6,57,35,1,1
+fa424919-a79e-4785-8c09-faf24b6ec717,Referral,UK,4,23.3,5,45,52,1,1
+6024ecce-fbc6-4c7c-ab89-560bb1aa8520,Email Campaign,Germany,11,4.51,2,18,89,0,0
+0bbf839a-d7a3-4ea9-a9e5-0acfb265dc70,Google Ads,Germany,16,20.28,1,71,75,1,1
+77f10f19-6e5d-44eb-8f41-74115ba902dd,Referral,Canada,4,29.5,0,44,53,0,0
+6989a805-1b61-4b4b-9a15-90f54f323314,Facebook,Australia,12,22.08,2,52,39,1,1
+7722b40a-88d6-4e65-afe7-1b05bf3d9198,Facebook,UK,13,10.27,7,42,78,1,1
+e77b0dc9-ae36-4931-80aa-c1dbe01d93a4,Facebook,Canada,18,24.1,6,83,32,0,1
+dabbe95b-9fd0-46dd-930a-70b55f200737,LinkedIn,Canada,13,3.92,6,83,71,0,1
+6c2e2c9a-5e59-4301-9f43-41a7998d2c50,Email Campaign,Canada,3,23.9,0,43,58,0,0
+45b32859-4c66-4e00-b063-d96fb55dbd22,Email Campaign,UK,14,17.58,3,68,61,0,0
+9004baa9-dd90-4922-b0eb-58778491e6d4,Referral,UK,4,25.48,0,98,81,0,1
+93a2870a-25fd-4d27-a6af-9f95c3f5140d,LinkedIn,UK,19,20.07,5,59,75,1,1
+bb1bf2b6-f3bb-470c-997e-c1062d3c7222,Referral,Germany,16,11.83,4,80,31,0,0
+3a553e6c-284c-4c03-a095-302b8081c06c,Referral,Canada,11,22.19,3,13,31,0,0
+d5903108-645e-4a26-bb03-a1b0e10414b6,Referral,India,4,22.14,2,96,54,0,0
+159ba0d6-d2ff-4758-9504-1f16f948d7eb,Email Campaign,UK,12,10.66,9,10,61,1,1
+a3dee62f-c85b-40e1-8337-fb3d4187871b,LinkedIn,Germany,8,1.34,2,34,75,1,1
+3edacb62-b398-4f7f-86ff-f2ba5922938c,Email Campaign,India,7,20.89,7,38,43,0,1
+89233518-cd6d-42ad-b188-7d594f875a77,Facebook,USA,4,27.21,5,51,66,1,1
+477b8fc8-3883-4a5c-b9e8-416d74b3b988,LinkedIn,Canada,4,20.7,5,38,43,1,1
+962a73b6-2e86-4095-b56e-b94daa69b47f,Referral,USA,10,12.14,8,26,91,0,1
+71174013-432a-4554-875e-1d2bd583d9b4,Google Ads,Australia,7,6.52,9,94,30,0,0
+55c2ce3e-9c6a-4310-a3b6-54daf31340a4,Facebook,India,15,23.23,7,41,62,0,1
+4ffa27b1-4960-4d1c-b9e3-c6e436cc8263,Google Ads,UK,10,24.12,8,86,74,0,1
+ab0ee35a-2042-40bb-badc-702ec3b5f472,Email Campaign,USA,13,12.93,9,63,82,0,1
+78fac296-2df3-4e18-b252-8f3d87fadfad,Email Campaign,Germany,12,23.87,2,14,79,1,1
+4c972650-9885-40ba-8c06-f15400a8a700,Email Campaign,UK,4,11.62,7,35,42,1,1
+7e5506c2-e59f-48d7-b53e-e13ef9ff51bf,Referral,Canada,2,15.68,8,30,35,0,1
+8f6d8b7b-5f4f-447e-a797-bce735331c4d,Google Ads,India,13,24.09,1,92,83,1,1
+f17d2f48-18c2-473b-b2c9-0c7cdc672dfd,Referral,India,4,27.74,6,91,37,1,1
+dd7ec0d3-ede3-4c47-a063-488c3507addc,Google Ads,Canada,11,6.41,8,79,80,0,1
+34beb25b-69b8-4f75-a49d-91e3ae1ed80a,Facebook,India,15,14.7,4,98,34,1,1
+31baf7a6-ed94-4083-9ed1-f2a497a4a76b,Facebook,Germany,14,8.29,2,62,99,0,1
+6413b2ff-f52e-43e8-a5e4-bd23844562cb,LinkedIn,Germany,8,0.77,0,57,95,0,0
+6f6d5530-2e67-43c5-8033-f6e9766f737c,LinkedIn,UK,10,20.2,3,28,49,1,1
+9d4e4095-1b89-4fe6-8df0-89ecac13aa23,Instagram,USA,19,7.01,7,39,55,0,0
+cb8580dd-0451-4711-b686-a6c1eeb46cd3,Facebook,USA,2,14.88,2,89,74,1,1
+a7db6aa5-2ede-4072-9531-d1b5403bbd04,Email Campaign,India,5,20.01,9,49,81,1,1
+0fda4b81-b330-4ff7-986d-dcb0bb1723fe,Instagram,Canada,10,1.23,0,33,97,1,1
+b32316b9-1940-46f8-a695-cb6faa5db0dc,Facebook,Germany,5,21.26,0,18,52,1,1
+cb8ed4ce-5ae9-4312-9c77-368e8e7a1ef5,Instagram,USA,2,7.74,7,70,92,1,1
+ef25d40f-4349-43a0-a70a-c596679edea7,Facebook,Canada,2,27.22,5,71,53,0,0
+6c80b624-5b5e-4cf5-bb9f-effb7e264a8f,LinkedIn,India,19,24.1,1,61,71,0,1
+dbb4f489-e18c-4e02-8ac7-c796db1155d8,Instagram,Germany,6,5.1,2,70,97,1,1
+406cc436-7586-4748-a1cc-6c810d32f987,Google Ads,UK,19,3.33,3,11,54,1,1
+01a3bbc1-23bf-4ebc-8b29-8b7e6a405a04,LinkedIn,UK,2,4.36,2,55,85,1,1
+5f9b3f9e-804c-4a6a-ad26-0af33cc574ab,Email Campaign,Australia,4,3.44,5,64,33,1,1
+9788eebf-e52d-42df-96f8-b3c9a844c56b,Instagram,Germany,6,4.53,3,87,32,1,1
+a39b42fa-235e-4f70-b575-7b64895012a3,Instagram,Germany,13,18.14,9,13,47,1,1
+47779229-b15a-4f20-827f-a2f48b714de3,Instagram,Germany,5,4.94,1,96,56,1,1
+ac762747-287c-4f34-9d00-8fb7c8e30178,Google Ads,India,2,20.4,6,13,74,0,1
+d2ddd437-53ab-4b08-904d-3e7ed7926e30,Facebook,UK,17,29.12,9,71,43,0,1
+d2644410-c449-4cdd-a54d-f72d1ac390b7,Facebook,Canada,19,6.0,6,15,53,1,1
+5f34f783-d969-4ed0-9973-b29d5ade6005,Google Ads,UK,1,23.95,3,75,73,1,1
+3de49d2c-a716-4938-817e-f006bcbd50a3,Email Campaign,Germany,16,11.7,7,11,38,1,1
+e71d1dc2-b343-43be-bff4-34a6a29e4e8a,LinkedIn,UK,7,5.09,9,94,41,0,0
+bd9ab562-9c5b-4cb9-b4ee-7b072ff62e9e,Email Campaign,Australia,10,14.9,5,61,67,0,0
+7fec3087-94eb-4a2e-b5f9-0e0646d8d2cb,Instagram,Australia,13,6.81,4,87,62,0,0
+2a561839-54c6-4394-a34c-b2c33623159b,Facebook,India,13,13.37,9,63,32,1,1
+1a60d5b3-65b9-4930-8337-a8c44a3a7c95,LinkedIn,Australia,9,27.82,0,87,64,0,0
+fd5efb07-7cb2-44b2-8d74-e84480edc4dc,Email Campaign,USA,8,10.08,1,37,40,1,1
+c0ab0cdc-2992-48a8-8940-dbe155a224f4,Email Campaign,UK,4,5.59,2,10,80,1,1
+9fce621c-0c46-4d9b-8ee3-9d8ad39dd456,Google Ads,Canada,7,23.33,2,20,36,1,1
+ed64ce47-c184-45a5-8b46-d7dd83b6ffb4,Google Ads,USA,14,14.9,9,36,98,0,1
+c3751482-7321-4c3a-aa75-2a4132285e6f,Facebook,USA,12,1.59,2,95,32,0,0
+6450eb5e-d5fa-49d5-8f3f-a7f8125c7702,LinkedIn,Germany,4,28.68,1,32,46,1,1
+391eecc1-0576-46af-be85-38e7756cf4bf,Email Campaign,Germany,17,10.66,4,97,80,0,1
+21d43f9c-a11b-4dbb-95ea-dc9b714cbea7,LinkedIn,UK,18,28.9,8,98,88,1,1
+be3e0b8f-96fb-4bfe-afa3-87c37252a817,Facebook,UK,10,5.28,2,15,34,0,0
+59327117-8665-457f-8512-cdb53b5f5cb8,Email Campaign,USA,1,0.86,1,54,81,0,0
+c5415352-d4f5-4d05-b4a7-9b9914bd11d6,Google Ads,UK,13,2.06,7,71,59,1,1
+9e37d6da-d11f-4163-b2cb-23b5b2c8d150,Instagram,India,2,17.44,1,82,96,0,1
+bd6678b6-c9ec-4480-b43d-15d50b685da0,LinkedIn,Canada,16,12.61,9,56,77,0,1
+211cd7e2-cf9e-40f5-93bd-272d8715fe30,Google Ads,UK,12,3.15,4,53,60,1,1
+7627daf5-9b50-4272-8722-4386889827b8,Facebook,Germany,13,4.08,1,98,33,1,1
+e2845cbd-d74c-4143-921b-a4bbd4cf58bf,Facebook,UK,1,2.38,6,10,33,1,1
+0a0cab64-fb02-49f3-92d1-0cb4d56a84ef,LinkedIn,Australia,4,4.78,6,61,39,1,1
+d30d01ee-47f8-4e54-953f-792fea3d9d29,Google Ads,UK,1,26.84,7,75,97,0,1
+366ad0e6-30f4-4c66-9c97-dcd56007de45,Email Campaign,Australia,10,26.77,8,48,36,1,1
+0a98b45c-54a3-4b99-bad8-7ddb8bbb32fb,Google Ads,India,6,18.44,4,41,81,1,1
+9a0356c3-54fe-407e-b5c3-567193b29ade,Google Ads,UK,4,7.23,9,33,41,0,0
+a9b267b1-50b5-48c5-9b5f-bcae698f1885,LinkedIn,India,14,20.26,3,58,38,1,1
+d7f41565-9dca-4819-81fd-e7c01aed2f75,Google Ads,UK,8,16.71,7,43,98,1,1
+997b0ad1-84cc-4009-bea8-b385c41177fa,Facebook,Canada,4,27.24,5,79,32,0,0
+fd22ec21-baeb-4af8-a6dd-4b9e73779e9e,Facebook,UK,9,28.89,9,88,66,0,1
+852e1829-7522-419d-84d8-fe098ed3cbed,Email Campaign,UK,18,3.09,7,72,65,1,1
+349426d4-00d2-4208-ae7c-e01ce5fd2a0b,Facebook,UK,14,27.15,6,36,86,1,1
+5de9e30a-1e2c-458c-b946-4eca57239a2f,Google Ads,UK,13,3.64,8,93,60,1,1
+6b9b3bf3-6933-4124-9c3e-8abc5252eb87,Facebook,UK,19,8.62,9,38,78,0,0
+e90f241c-0d3f-4775-96b8-c7e4975c4dd2,Referral,Australia,1,28.87,1,92,67,0,0
+9e15e579-1313-4658-8701-781e6f8fc387,Email Campaign,Australia,9,0.98,2,60,46,0,0
+6cdb736b-e4a2-4966-a25a-21de3083d27e,Google Ads,Germany,4,25.44,7,11,81,1,1
+dec97104-6814-4923-a3dd-27370379b34f,Referral,UK,9,28.14,6,30,89,1,1
+0462cc38-f135-49cc-b6fb-f90a4eb7f128,LinkedIn,India,9,3.98,2,81,61,0,0
+e5f8299e-d9a4-4b3b-97b2-4a631cb7e01b,Email Campaign,Germany,6,5.31,7,58,34,0,0
+6b30635a-03e1-4a9c-a45d-9cb0fd07d16e,Referral,Australia,7,0.98,9,95,71,0,1
+8aa8bc9b-8128-4e1b-a92a-7188505a6d3b,Email Campaign,USA,6,25.52,7,60,68,0,1
+743e3dc7-36e9-4930-908b-c323b3a28fab,Facebook,USA,7,24.99,2,96,45,1,1
+382cbc15-0e85-46f5-92b3-31db7b9c1150,LinkedIn,Canada,15,22.64,6,88,67,0,1
+deee1f93-4904-458a-9650-75438b6f35fb,Google Ads,Australia,4,25.19,3,23,76,1,1
+ef2c7607-f735-4fc4-9362-300b1dfa38d5,Google Ads,Germany,10,18.37,8,71,79,1,1
+343d0b9c-c3cd-4b04-b31a-cf0a6d818b89,Google Ads,Canada,6,28.4,6,81,39,1,1
+d256a5ee-39ee-45cb-946f-f82961c43c68,Email Campaign,India,3,8.86,0,51,48,1,1
+81edb25f-9e09-46df-bebe-d818edab2f1a,Instagram,Australia,5,18.73,4,96,70,1,1
+cad69736-56cb-441e-aa9a-55b2b4a78956,LinkedIn,India,3,12.53,2,43,86,0,0
+ec4658a0-3594-4202-9632-67eb53d2228f,Referral,USA,2,8.42,5,88,43,1,1
+89d7b9dc-66d4-4aaa-975f-c92939cbb62a,LinkedIn,Australia,17,23.48,5,31,33,1,1
+3c65bf74-8def-4b9e-848e-83b296e8e67b,Google Ads,Australia,1,14.34,9,65,30,1,1
+443218f8-3ca5-4fcf-a08c-419fc7522063,LinkedIn,Australia,16,24.95,4,50,31,1,1
+21e70498-ab75-4fdd-a6bf-71d0ab5405c8,Instagram,Australia,8,4.6,2,16,92,0,0
+80de0b4c-99eb-4de5-8875-82db8b03ff58,Instagram,USA,9,4.73,0,59,31,1,1
+cc8cec2d-8076-45e0-987c-5231803338d4,Instagram,USA,15,19.78,0,85,82,0,1
+ecd25b4c-3fc2-4c2a-b95d-7ab6f88e92da,Instagram,Canada,6,1.78,9,24,61,0,0
+8dcd49a5-2f0d-442e-b7cb-d0e36397ce36,LinkedIn,Canada,10,26.11,2,40,93,1,1
+515e6206-c269-495e-bb23-cb76b919ba67,Google Ads,Canada,16,1.33,7,11,38,0,0
+4af66fdb-799a-4e6b-bd08-cb65ace10eed,LinkedIn,Germany,4,9.78,6,79,49,1,1
+a883c07d-90ad-4507-b91a-0c09d6a36f13,Google Ads,USA,18,6.45,3,41,89,0,0
+956a63e0-ea0d-40ee-a25b-02ee733dfb6e,Referral,USA,15,16.9,2,21,63,1,1
+93323277-dfec-4032-a3e5-7fd7d72158d9,Instagram,UK,17,18.67,7,68,30,1,1
+5176855e-caa0-4866-bccc-7573e7caab68,Facebook,India,13,6.46,4,31,91,0,0
+d77801da-7b90-48a6-becb-52f974587524,Instagram,Australia,4,12.05,1,24,52,0,0
+0bae4842-76d1-4756-a1f5-452cae9491be,Referral,Germany,7,17.93,2,31,65,0,0
+79573992-bd66-4f5a-ae51-f6cb7fe5370b,LinkedIn,Canada,7,1.21,1,60,92,0,0
+9e8bc1c7-2eb8-4816-8b58-f883e6a2898f,Instagram,UK,8,17.5,0,62,37,1,1
+d8f87195-2f89-4ba8-9438-7e614db25109,LinkedIn,Canada,3,29.52,3,80,73,0,1
+18e8a510-6c46-45fc-b5cb-8adcaf8b7bac,Google Ads,UK,2,5.89,1,12,72,0,0
+533e88b6-a9e3-4526-8d4b-fc1ed668c6ba,Email Campaign,Canada,19,2.3,0,51,42,1,1
+8fcbc023-8c37-41d3-8675-97f8a7787ee7,Referral,USA,1,13.36,9,87,46,1,1
+2e4c4a15-b34f-4344-b51a-0d643e16c188,Facebook,India,4,15.69,0,54,69,0,0
+7179c9e5-72a4-41b1-975e-d44d3d8dacf0,Facebook,UK,2,22.45,7,61,80,0,1
+70494fe6-fc2a-4a37-af35-4b561a495704,Google Ads,UK,8,4.13,6,61,43,1,1
+369e87d3-1af2-48c0-a1d5-c362724a7491,Email Campaign,India,13,23.67,4,62,47,0,0
+63b2a785-adc1-42e2-b344-09e70401f6a1,Referral,UK,8,27.29,5,80,64,0,0
+1798b75a-35b4-4f79-a037-d2ca91571921,Google Ads,USA,10,20.0,9,13,31,0,1
+39a6e4b6-6f84-4912-91ac-0c6699f69269,Google Ads,Canada,11,28.49,1,65,35,1,1
+b0cf2379-e39f-4532-bbc8-d791a75f74d3,LinkedIn,UK,15,10.07,8,44,82,0,1
+9594091f-802b-4f4b-ad9b-32ad84bae560,Referral,UK,9,25.94,6,25,32,0,1
+4a8c3447-1379-424f-a197-08855ff50054,LinkedIn,Canada,12,15.52,8,48,36,0,1
+8c3b5edd-4d5b-4cde-8a30-c275d79890e6,LinkedIn,UK,4,2.31,0,65,94,0,1
+5c915cd4-ed95-4a7a-a6d9-0f167db8346a,Facebook,Canada,1,21.15,4,33,42,1,1
+040f27db-d77c-4c76-9d57-be392b6b4362,Email Campaign,Canada,18,13.71,7,56,58,1,1
+4920ab67-25ae-4c86-a162-fec341964bbc,Referral,Germany,2,7.85,8,78,47,0,0
+ba85b1b3-e457-406f-8980-6bdaf3be1d17,Google Ads,India,17,12.87,8,25,84,0,1
+68869d86-e071-4106-a7a9-8629d44c6d9b,Instagram,Australia,16,28.26,9,37,87,1,1
+cf4156fc-d40b-45a1-9693-e781c9b91c29,Facebook,India,7,18.26,8,47,58,0,1
+d0c678da-3f70-4429-95a8-03ac4d2aedf7,LinkedIn,USA,16,26.59,1,60,68,1,1
+01531d16-af2f-47c4-8a1b-bfa1e171a9e5,LinkedIn,Canada,6,3.89,6,41,60,1,1
+d171905b-4d07-4191-9afb-2c767e19772d,Referral,Canada,16,15.09,0,95,83,0,1
+06dec982-cef9-4632-8548-d0aba1699faa,Google Ads,Germany,7,9.79,1,91,78,1,1
+9077b130-09f0-4ec4-a3cf-94e2e84d1bec,Referral,Germany,13,9.72,0,48,64,1,1
+25c70ea6-1b52-4001-805a-87f62a2fbd0a,Facebook,Germany,6,0.56,8,20,40,0,0
+4f6f40d1-f0c6-4d1a-aae0-bd8250e22038,Email Campaign,India,1,16.11,8,63,95,1,1
+e834f12d-b32c-4011-af6d-5f190df2a5db,Facebook,Germany,10,24.97,0,17,88,1,1
+35e0a847-eb01-4a59-98d7-a9f940ddf10c,Instagram,India,7,24.74,9,46,76,1,1
+b2b267a7-a740-4d9e-b3c1-50665d63adc6,LinkedIn,India,11,8.75,1,51,56,0,0
+d6593950-4496-4bd2-947e-41f7cb83f7e4,Email Campaign,Australia,5,15.13,5,84,62,1,1
+1952e893-a2e8-4e5f-b88e-8310795aee79,Google Ads,Canada,12,20.24,0,38,57,0,0
+1a34a319-9c67-4176-aaf0-95fa100b6bac,Referral,USA,9,27.38,8,23,91,0,1
+72da4a3d-64c8-4712-8f8e-75f4c8954432,Email Campaign,UK,19,29.12,7,46,73,1,1
+2719ec93-1f10-43c4-b9cf-ff7dbd60f483,Instagram,Germany,12,9.39,6,72,59,0,0
+6d4e55c7-8dc7-44ef-b8f7-8d691e901f2b,Email Campaign,India,3,10.28,1,87,64,1,1
+e5094761-c09d-41c5-9416-d68119d4d41f,Referral,UK,4,5.35,9,60,98,0,0
+4d36beaa-812e-4c31-868d-dfd3f8f360e3,Referral,Australia,14,16.29,4,66,75,0,1
+98704c04-3382-40ba-9c0c-24c8fc88316e,Referral,USA,19,6.86,3,75,49,1,1
+00c9e4ff-31de-4392-9a19-04a1a1e20c12,Referral,USA,11,6.12,3,83,44,0,0
+bf874a4d-4d7c-4b71-97b7-028eb050ead3,Referral,Australia,7,29.57,0,32,63,1,1
+ebcd4913-bcf7-4488-b661-fb72374bcecb,Referral,Canada,9,2.5,7,44,34,1,1
+21a65547-4140-4713-bfb6-ef17dbcf40aa,Email Campaign,Canada,1,27.52,9,23,92,0,1
+2dff46a0-b628-45f5-9469-2d961a6f4d59,LinkedIn,Canada,16,11.6,6,88,39,0,1
+f9ed365a-8943-435d-9447-148ab6c3399f,Instagram,Germany,15,11.33,7,71,48,1,1
+ffab9357-ac0c-4ae3-ac9e-1112b97b8dbe,LinkedIn,India,7,4.33,7,97,66,1,1
+a6ce9b5b-9b98-4b26-a850-1eaabdfed22a,LinkedIn,UK,13,22.62,7,67,73,0,1
+b83c921f-7800-4543-bdd5-368a561d4058,Instagram,USA,9,17.32,0,78,55,1,1
+b6190b6c-eb63-47ef-a675-853db5c4bffc,Referral,Canada,16,7.2,1,49,68,1,1
+8d766057-fd77-464f-b5f6-426b9f4cb4bf,LinkedIn,Canada,4,7.53,9,89,94,0,1
+79f55ad5-a368-44ea-9630-2d7b42c1c89c,Facebook,USA,7,11.33,2,83,77,1,1
+991e8d1f-0bfe-45e2-8ffb-a4e38709e140,LinkedIn,Germany,7,2.99,9,37,59,0,0
+bc10e666-8dbb-4988-9567-911d8e4498ed,Facebook,Canada,4,3.5,4,29,67,0,0
+b60ae3d1-0bbc-4461-8d8b-4e4ccce155b2,Facebook,India,13,13.11,6,45,36,0,1
+412547e1-0f73-4ffc-b8cd-d89216b8ccf6,Referral,Canada,14,7.28,9,40,37,1,1
+773ec10a-140d-46a3-b273-abb10900c319,Email Campaign,India,3,11.75,5,99,40,0,0
+42b75bf6-0898-4690-a15e-56e6140692b3,Referral,India,16,27.19,0,18,55,1,1
+26aae823-67a9-4873-a270-91fcdcf239b1,Facebook,UK,5,2.08,2,98,41,1,1
+a5ee43cb-ead4-4aee-8c3f-1dc08972b768,Instagram,India,11,17.74,7,83,77,1,1
+e20197b6-faf0-4474-b586-126010563071,Google Ads,UK,14,23.67,3,95,61,0,0
+398b78ff-a5a7-44a4-90ce-13e1c107b984,Email Campaign,USA,17,16.39,4,49,74,0,0
+e1d75165-e347-47ac-a598-9a2111c240a0,Google Ads,Australia,13,13.8,9,91,66,1,1
+565fc91c-702e-480c-8f2d-95f2a96897a3,Instagram,Canada,18,15.98,0,50,91,1,1
+3c472ddd-8ac1-4520-9e6b-c595b8169ed3,LinkedIn,Germany,2,1.31,9,39,30,1,1
+ba93bd63-5fea-44e7-b52b-3e00214d8e81,Google Ads,Germany,19,6.17,6,72,38,1,1
+5391dcea-3d5c-425e-a138-8b748ab71258,Google Ads,UK,15,23.81,8,65,62,0,1
+6e5030af-c4e8-4986-a1e4-82416ad586b9,Facebook,Germany,16,21.09,8,27,99,1,1
+74d29a36-9b20-4d9c-b5ae-b2fc5ebe2e35,LinkedIn,India,11,6.21,8,75,49,1,1
+e3a0c51c-aebd-42bc-abdf-59148a17f572,Referral,Australia,14,5.57,3,68,75,0,1
+a553a4f8-7c31-455a-8b3a-244bb6f3e8c9,Email Campaign,Germany,8,18.41,8,90,65,0,1
+76c08588-9234-4826-96db-026a85a5cd3c,Instagram,Australia,3,15.41,2,16,43,0,0
+e31442dd-db68-4235-a7f1-ea3711991386,Email Campaign,Germany,10,21.71,2,26,72,1,1
+095c328d-93d6-444e-b203-6d5907f226f3,Email Campaign,Germany,14,23.78,0,84,46,0,0
+e52bec3c-e8dc-41d3-86fb-f1c208106111,Email Campaign,Canada,3,27.29,7,83,45,1,1
+aa90cac0-cc66-4439-a31e-5f84c502fba9,Facebook,Australia,13,6.46,3,65,79,1,1
+aebc00a2-0e91-4755-9928-a2046c23aa32,Instagram,USA,13,2.09,4,87,63,0,0
+d4b1c795-cd8d-4692-bcb7-452e0610427b,Facebook,Australia,10,16.61,0,73,57,1,1
+1425bf8d-431a-4158-80c7-1ff1e758be04,Facebook,USA,9,17.59,5,23,87,0,0
+0643b9c9-76b8-4002-ab86-0e24d51afe9a,Facebook,USA,12,5.13,5,23,81,0,0
+b2019466-e6b4-48ed-8dd6-66ff604d8d87,Instagram,Germany,11,9.44,2,34,67,1,1
+842b1c1c-88f0-46f3-8a36-ce73be8f2faf,Email Campaign,Germany,12,28.94,1,24,94,1,1
+ac49c479-9d8a-40e2-b78e-930ea09f10c4,Google Ads,Australia,13,12.4,8,41,44,1,1
+0f72dd1f-d7a1-427f-9d65-f6fdedf0fda3,LinkedIn,USA,10,10.88,1,92,71,1,1
+f9798f20-42f2-4efb-b6a1-33a43d394acb,Referral,Australia,6,1.74,8,56,33,0,0
+37a83217-93df-4e70-a975-8f0b9bc36d5b,Email Campaign,Canada,12,8.12,2,99,85,1,1
+ea3a4f0f-b62f-44de-a007-45a674c4d691,Facebook,USA,16,12.67,6,73,96,0,1
+6ba0b59d-b4b2-402c-961a-17ff4df2ebce,LinkedIn,India,14,10.13,0,16,95,1,1
+311be097-77a0-4865-b640-8b70da0bb93d,LinkedIn,UK,5,26.55,5,13,94,1,1
+0ec4c4d6-d1ab-4013-8102-742fa7e9ac3c,Google Ads,Australia,7,26.7,9,68,79,0,1
+314e6989-cbae-4729-990a-a7760378ee90,Facebook,Australia,12,18.39,2,30,86,0,0
+56d8f097-9a8a-417c-9b59-dd59cfa781ba,Facebook,India,14,10.52,1,41,53,0,0
+b36b9cd2-ae95-4d91-8dae-8f240cc41eba,LinkedIn,Canada,12,14.72,3,71,94,1,1
+fb0e10b1-98e4-4b56-be08-1d338741a21c,Email Campaign,Canada,14,22.94,2,62,35,1,1
+408e5510-2888-4a7f-a1e3-0b168881223d,LinkedIn,Australia,6,6.53,0,82,97,1,1
+afa51597-ed6e-4cfa-a242-6241f50005ff,LinkedIn,Germany,12,8.14,1,62,80,1,1
+6d6696f0-6b97-4712-bcc9-ead8870b8767,Email Campaign,Germany,3,16.26,7,49,88,0,1
+84723f60-8f0e-4be2-83f1-918c4eec030e,LinkedIn,USA,9,21.15,9,39,86,1,1
+8cf88c5d-125e-44b1-a61b-ded163b4e5ad,LinkedIn,Australia,17,12.22,6,85,81,1,1
+92b1dd3d-e590-4c79-8fef-d7f0e50ef319,Instagram,UK,2,8.64,3,17,97,0,0
+cd09e877-b531-4262-99b7-760e0095360a,Referral,Germany,15,7.82,8,47,64,0,0
+20b98a3d-8c3d-4cf4-a253-3b180fe9bc07,Referral,Canada,11,7.73,8,75,97,1,1
+6dca6baa-6d82-4789-a40f-e812eb17094f,Google Ads,India,10,6.13,4,11,78,1,1
+941cab6f-bbc2-4a6f-b112-96361abf1790,LinkedIn,Canada,10,27.86,0,45,61,0,0
+05173369-ba1b-4b10-9b85-c1d5e130a41f,Instagram,India,8,23.71,4,46,42,1,1
+3a622e13-743e-42c4-b803-b84adbe4132e,LinkedIn,USA,6,17.84,7,70,51,1,1
+b017bde6-b5b7-4539-be8a-f146bc35930a,LinkedIn,Australia,7,17.96,4,98,60,0,0
+ba6e3664-2629-4d8e-85f5-a62767d976f7,Referral,USA,8,10.41,0,86,81,0,1
+f5d192ec-b227-405b-94ba-730ea4528de3,Instagram,Australia,6,1.72,4,35,50,0,0
+67f650a3-a016-45c2-b2e7-31b84761edbc,Email Campaign,Canada,9,19.33,8,49,61,0,1
+f13622c4-8b92-4838-97ad-3be01fa22a54,Referral,Canada,4,8.49,9,31,62,1,1
+2a10450c-188d-4ac4-86dc-1968f3e61121,Referral,India,4,25.04,2,40,74,0,0
+dea19b4b-a07b-421e-88a4-14e9ff39c1e6,Instagram,India,1,21.61,8,92,37,1,1
+849c86bb-73cf-46d1-a365-850d1cfdb427,Email Campaign,Australia,18,16.66,2,26,64,0,0
+4d085679-e371-47cb-8a18-040cad6a0ebd,Email Campaign,Canada,7,14.75,3,59,62,1,1
+ad314f99-a0fc-4e31-bf0c-1f0e5557c3e2,LinkedIn,USA,5,3.09,3,51,54,0,0
+af0e0a82-9c40-491d-91d6-9bc61751b24f,Email Campaign,India,14,18.31,2,70,50,0,0
+b06ba42c-f8cb-407c-b149-00f9031af0d1,Email Campaign,Australia,16,8.08,0,33,78,1,1
+fb07316b-a978-4032-98e4-0aa3f1aa0eb9,Referral,Australia,8,6.24,2,32,86,0,0
+d7384637-f588-4703-858f-0b94ff507557,Email Campaign,USA,19,7.63,9,98,83,0,1
+432c6016-7598-416e-8492-fdde016b6933,Referral,Canada,12,2.85,3,30,98,1,1
+36aeab02-871f-49e4-8e92-3aa9204793bb,Email Campaign,Australia,8,15.0,9,52,61,1,1
+b4963236-4303-4a30-b349-8ec812ccee96,LinkedIn,Australia,5,13.41,0,87,79,1,1
+3ff2db31-9be4-4ad0-96dc-2919a497c6bb,Google Ads,Germany,2,27.32,5,15,62,1,1
+b07ce587-9751-4034-9fab-e74502a79038,Referral,USA,4,5.02,4,45,97,0,0
+3db96682-1151-4dc6-9eba-5e7ad85666d8,Instagram,Canada,13,8.33,3,19,69,0,0
+579b0e44-df6c-4a5f-92b6-5aded062ccb5,Email Campaign,Canada,14,21.1,0,60,99,1,1
+7d9473af-b9a4-4a8e-a2c2-7ed480c250ef,LinkedIn,Germany,4,3.62,1,41,90,1,1
+d627d641-32aa-47ca-9d9e-a0a489ac70d6,LinkedIn,Australia,3,22.55,0,74,49,0,0
+32ccb4ee-f524-427c-8964-4c73678b9ca0,Referral,USA,19,13.53,0,66,32,1,1
+00b875e2-9f27-4b9c-a789-5ef32f10782f,Google Ads,Canada,10,15.73,5,77,79,0,1
+e11da5bb-d7d6-4c97-a82e-12cac13920d0,Facebook,Australia,1,20.84,4,55,32,0,0
+43eb71f4-322d-4b09-9f63-9cf5bedc9b14,Referral,Australia,1,16.05,4,80,63,0,0
+a8e65f8a-21ce-44f7-8f30-570615b3748d,Referral,UK,9,11.27,6,29,53,1,1
+9d0936a8-8766-471d-8f53-b2b4bc76ff07,Email Campaign,Germany,1,23.86,1,93,77,0,1
+b12bdd20-7d65-4086-9394-05dc9c4536ca,Email Campaign,Germany,9,1.03,3,30,92,0,0
+da7084f5-307f-430e-b64c-91e9bbc395f6,Google Ads,UK,8,15.82,0,79,59,1,1
+30c4c411-8709-41f5-8835-a53eae91b394,Referral,Canada,11,11.67,3,60,38,1,1
+ab64f6d3-614a-40d0-83c7-2871e4c1fb78,Referral,Germany,18,26.31,3,64,55,0,0
+962b7307-224a-468f-9fd6-2d474a4de176,Facebook,Germany,1,1.68,8,94,80,0,1
+6d1bf944-10dc-430e-be2d-fca64c0c9379,LinkedIn,USA,18,7.83,1,12,58,0,0
+3acccfd4-e728-4684-96df-8439783991fd,Referral,UK,7,7.2,4,61,31,0,0
+ec6b48d6-7a86-4d68-a3fd-32778a1e5e32,Facebook,UK,2,19.6,6,12,74,0,1
+dca450ee-4398-4e29-a606-322394ff9e46,Instagram,Australia,5,23.84,4,95,70,1,1
+22147893-62ca-4eb2-888f-3a4e8d1b7e46,Referral,India,3,8.01,2,10,31,1,1
+c3c2822f-1d0d-4e30-a392-86965a9cc7c6,Facebook,India,15,29.85,0,38,40,0,0
+c9b2cec1-65e7-4176-b323-b01ac3c91e8b,Email Campaign,USA,7,5.25,8,89,68,0,0
+5c97d1a2-74e6-4fd0-9475-4cd0697015f2,Facebook,UK,1,13.25,7,45,69,0,1
+1842a00b-5036-4142-b8fd-d87772920285,Referral,Australia,9,9.09,3,16,40,1,1
+d3d765f1-ae3a-445b-82b8-baec20051572,Facebook,India,13,9.59,1,13,67,0,0
+b8b043fc-217b-41b1-a185-2be3173c3820,LinkedIn,Australia,17,12.27,8,25,57,0,1
+c072303a-9fcd-4a81-93a3-e8521597332b,Instagram,Germany,2,12.29,9,82,71,0,1
+5d37c825-e68f-4996-9ae6-6ab96b726b21,Email Campaign,Canada,14,9.71,2,25,87,0,0
+0fff6efa-979c-4013-b522-c80756a2ffe3,Referral,Germany,3,16.95,7,60,80,1,1
+628b4178-e7a7-40ff-804d-28f32421de5e,Facebook,Canada,5,8.33,4,34,47,0,0
+67c91e93-6983-4a38-8c81-1b93de0f6df7,Google Ads,UK,8,21.9,1,38,74,0,0
+ca89bd2a-f52a-4a87-b514-78fdddb8af12,Google Ads,India,1,12.2,6,95,46,0,1
+307a573a-4282-47c9-8cb1-42340483f314,Referral,Canada,17,5.06,0,94,42,0,0
+d9a7423f-8490-414b-ba13-2350ee45bebb,Google Ads,India,5,6.71,6,60,72,1,1
+5417427c-a424-4930-91eb-013576042ee2,Referral,UK,12,29.5,2,67,42,0,0
+c6ba38f4-b453-423f-868a-1736c557bbb6,Google Ads,Australia,13,28.85,1,36,77,0,0
+a4a5c1b5-3668-4ce2-86c0-a3e384e6d240,Google Ads,Canada,3,20.42,3,80,45,0,0
+304d719c-be63-4be9-9f29-e296cfed293c,Facebook,Canada,15,29.17,8,21,57,1,1
+cdc9efe3-9b68-4a4a-b271-c6f61498b6c0,Instagram,Germany,17,14.7,6,17,86,0,1
+1a7661d0-6f0d-44c8-b118-1d42978528e9,LinkedIn,Australia,2,4.1,5,44,50,1,1
+68a86c0d-5d97-49ea-bfe0-b72016ed6271,Referral,Germany,16,20.5,4,17,52,0,0
+6896d81b-866d-4d23-9c88-ef5c7522250f,Instagram,UK,15,28.92,0,67,81,1,1
+6e4245ef-d69b-4c0a-b26d-e8a4b5bcea5c,Referral,Germany,12,5.81,0,50,89,1,1
+4e7cfb6a-5b03-46bc-af1a-b0c1fc6c16a8,LinkedIn,Canada,8,7.43,7,92,99,1,1
+1d19a6de-d441-46c8-9b54-0e945748762b,Google Ads,India,15,11.72,0,94,75,0,1
+862a85a6-1be0-4e04-8d4f-6bfc0569c8b2,Email Campaign,Australia,12,4.29,7,46,86,0,0
+ccdbf814-0e66-4f5a-9361-43c9994cab89,Instagram,India,17,17.58,3,58,97,1,1
+20bb1350-0515-47b5-b878-0c84cc04867a,Facebook,Australia,19,14.05,2,14,68,0,0
+f6e6741b-63ed-4ced-b41e-b0bc082c0f7c,Email Campaign,UK,10,17.87,6,57,46,1,1
+7439f6d0-73d8-4a80-b10e-a230f7e7510f,Instagram,USA,12,9.94,7,61,40,0,0
+d8d7da55-7c8d-4a9a-a926-582882e56e4b,Facebook,India,2,16.26,7,61,89,0,1
+55f6db43-a51e-4461-9d75-fdad2af01d50,Google Ads,India,11,4.55,7,16,58,0,0
+8d64e926-30b5-4245-9b37-c27fa2a833fa,Facebook,India,4,6.16,9,61,86,0,1
+5f2d9432-0dc5-4bf9-8963-65bcc66487c7,LinkedIn,Germany,2,28.53,8,31,88,0,1
+503f5c69-c457-4dc5-9093-8ef5ec19d131,Google Ads,Australia,1,28.03,5,61,67,1,1
+2a73827b-00a5-48f7-91a9-73859ff3eaa7,Email Campaign,Australia,15,28.7,2,27,55,0,0
+30c1c77d-08fe-4871-b738-1f3b0c6dd4b5,Email Campaign,USA,13,10.59,6,63,77,0,1
+5c0c20e7-3e20-4506-aec2-49413a0f6ca7,Email Campaign,Germany,12,15.39,7,22,53,0,1
+f665c29c-ee6b-4c74-97f7-e82c243dbd28,Instagram,India,6,7.96,9,89,91,1,1
+c3a6fe09-812b-4459-a37c-b6d56c14f780,Email Campaign,Canada,3,12.05,4,96,68,1,1
+fb7a961a-b5a2-41ff-960e-52ef64f1d550,Referral,Canada,1,4.87,8,37,45,0,0
+3a60def1-5b57-4bcd-8172-3987bf740f75,Instagram,India,19,23.76,3,32,98,0,0
+b27d6dd6-5e70-40fa-830c-81643d164220,Instagram,Germany,11,5.62,8,89,50,0,0
+5a327c78-3867-4546-b434-7b14529f263f,Google Ads,Canada,14,22.76,9,71,86,1,1
+d22b0ee9-4b7b-4153-aac7-37c43d78ba50,Google Ads,Canada,9,17.34,8,89,59,0,1
+9e98ce91-bae4-45c6-9eb0-a438a1adb723,Email Campaign,India,3,22.14,1,24,36,0,0
+3ff9c6eb-c03f-4346-9ade-9a734dd2fe5a,Facebook,Australia,16,8.77,7,13,48,0,0
+45ce0e89-e9bc-4c06-9553-2cc460d560ef,Referral,Canada,4,28.49,6,31,69,1,1
+4e17311a-37be-4857-97fe-27d6655978a7,Google Ads,Germany,10,26.78,4,82,31,1,1
+6e111aa3-1e03-45da-a0f7-affe6ddaba34,Email Campaign,Australia,13,29.23,8,71,74,1,1
+b7eb01e3-ad42-4656-96e2-02ded1a965cf,Email Campaign,UK,9,21.47,6,54,85,1,1
+b6ea0a2a-3bc1-4e12-8e3e-0320461c7eaf,Facebook,Australia,2,7.36,7,98,67,1,1
+46301bb3-e6ee-4526-bd11-edeaecb9d63b,Facebook,Australia,15,15.72,5,36,43,0,0
+617deb86-bc0a-4f95-81e4-f7ad98a75452,LinkedIn,USA,4,3.59,2,65,80,0,1
+5dbdac3e-b3f4-4d6f-b44e-b5bb0e7590a1,LinkedIn,Germany,8,13.73,6,40,67,0,1
+c3abce3d-33ac-4803-88eb-cd0ad0965f88,Facebook,USA,16,16.85,1,52,87,0,0
+e2b9403f-f467-4416-99fa-a9b8dcdf261e,Email Campaign,USA,19,28.18,1,84,40,0,0
+c506c19b-1c0f-4b8b-96bc-19651f4aa1fa,LinkedIn,India,15,12.37,7,13,73,0,1
+ec03cb81-d845-4bc8-9119-a2a968768110,Referral,Australia,17,17.62,5,88,57,0,0
+50ee9755-7430-44ca-bf84-1069e5f8a18c,Facebook,Canada,18,4.26,2,11,30,0,0
+ab1df24b-e8a1-428f-a4ef-6a66d74ac883,Google Ads,Canada,19,6.68,7,17,61,0,0
+726fc462-8b2b-4782-a067-2fc51894f66c,LinkedIn,India,9,23.49,6,75,91,0,1
+2ecc2875-526a-431e-b1f1-578be76dceab,Google Ads,Australia,16,25.66,8,17,46,0,1
+5f77669e-93c4-4032-a08f-7b9f03e3428c,Email Campaign,Germany,4,25.43,4,92,82,0,1
+e9ba43e0-86d2-47a4-abb9-5e289f6b6db1,Referral,UK,1,24.43,1,55,62,0,0
+2dd439c6-cd1c-4dab-a4bc-935571abf37b,Email Campaign,Canada,1,3.55,3,41,35,1,1
+5f3c8c1e-18ae-496c-b79c-9ae15bac0052,Email Campaign,UK,4,3.53,8,30,84,1,1
+5af07cd0-ae5a-469c-ae2a-af4b0009ba67,Referral,USA,4,28.84,4,85,69,1,1
+ee51cfa6-d014-4ae0-8bb4-c7b275055be1,Facebook,Canada,11,16.91,9,16,87,1,1
+e6c66e48-0cbf-488f-865a-aa73ceab6e02,Email Campaign,India,14,18.2,8,39,76,0,1
+1531e054-ef61-439f-a186-84e375787364,Google Ads,Australia,16,7.3,8,99,40,0,0
+67c8d3fa-76ef-4590-bfc9-bfe6e1b272e3,Referral,USA,7,5.5,6,67,32,0,0
+d2abd1bb-51c2-4324-ad94-b6a1e11171b9,Facebook,Australia,6,23.57,0,14,42,0,0
+7f5707ae-7ed0-47a0-94fb-2bf128e24d41,Facebook,UK,19,22.56,1,16,45,1,1
+e3d133b0-cab0-41a6-bb12-7c3f8814ed4c,Facebook,Germany,12,24.8,3,44,57,1,1
+4a7fe87e-d75b-4921-bc1c-945f14ad3786,Email Campaign,UK,9,24.41,7,53,94,0,1
+8013c2f4-f9f6-4113-a955-11902c4dfb32,Email Campaign,USA,14,24.6,6,22,41,0,1
+d763c299-af84-4d08-8ebc-aead0418a4c3,Instagram,India,6,21.85,4,83,33,0,0
+e11d8739-197f-4875-9099-7489775cb4b5,Facebook,Germany,5,25.87,8,25,70,1,1
+92babb26-9a5c-4ea0-98a3-326724ea3247,Google Ads,UK,8,20.88,8,74,53,1,1
+649ce524-dcab-4c25-b633-25b9ff9aa099,Instagram,Australia,19,1.04,2,70,40,1,1
+119c0ee5-57b4-4eea-83b9-56d404601b5b,Google Ads,Germany,19,5.84,5,46,31,1,1
+952f8e28-6f64-4fe9-ad37-106def9785a4,Google Ads,Australia,14,4.05,0,76,63,1,1
+b22cebb7-dad8-41d1-841c-233aa1563328,Google Ads,Australia,4,10.81,2,33,92,1,1
+0cb68fd9-6669-4e09-bea5-b08d2cc5e507,LinkedIn,UK,13,17.68,6,19,83,1,1
+e16bfcd1-7886-40b8-9f3f-92622a418f5c,Google Ads,UK,10,13.16,3,94,91,1,1
+5b18cc29-3340-4e3c-80cc-189c6fde2bac,Facebook,UK,1,6.09,9,45,99,1,1
+40857bf2-a492-4182-b3d9-f777c4db18f0,Instagram,USA,19,1.75,2,91,47,0,0
+f950126d-70b2-470e-b0fc-8fa1dbe459c8,LinkedIn,USA,8,26.32,1,56,71,1,1
+846e87ab-1d6d-4166-9852-e07a8371cec7,Email Campaign,USA,1,12.11,3,58,66,1,1
+bf2a6a37-b62d-4357-82aa-27f4e7016506,Instagram,Canada,12,3.22,2,86,61,1,1
+063d4dd2-5c64-4a8c-8e3d-dfff6290c030,Google Ads,India,5,8.99,3,94,82,0,1
+30578a43-3d3e-49ea-a933-8c7c59752a4d,Referral,Germany,8,9.16,7,40,43,1,1
+ad3dea8d-3810-4f75-8e34-bf4a67e3a072,Facebook,UK,1,2.19,4,49,95,1,1
+18905181-8067-485c-b1ad-f8ee7771f6ff,Referral,Australia,5,22.34,3,56,66,0,0
+130f0553-852b-4e39-a676-95d9743bab90,Facebook,USA,19,29.95,7,71,77,1,1
+d6062174-96c2-4ca7-8607-41115034c065,Google Ads,India,11,16.85,7,56,32,1,1
+f8d49b0d-66df-4bf3-901a-417bde697aac,Facebook,Germany,18,2.35,8,31,62,1,1
+d8432423-ae87-4132-921b-4a57357cf4b1,Email Campaign,USA,2,16.19,6,49,99,1,1
+ef32ba37-11f1-4254-92a9-384a343cefd8,Email Campaign,India,19,17.27,2,70,38,1,1
+bab7fd04-f231-4c0b-ad91-fb0e9be3b65f,Referral,India,19,18.41,5,61,45,1,1
+3d1da8af-be68-4394-afe3-6f5de6ef2154,Instagram,India,13,2.52,0,40,32,0,0
+e8d2991f-99dc-4590-a6db-09efeb471542,Instagram,India,2,9.39,8,29,52,0,0
+0e6ccba7-8173-4404-8668-fcc953f2cfdf,Google Ads,Australia,15,13.26,1,40,40,0,0
+589307d2-0010-410e-b83a-e2593c731b94,LinkedIn,Canada,1,17.51,2,93,93,0,1
+77a2787c-e703-404f-8648-ac0d06591ec1,Google Ads,USA,6,4.13,3,64,64,0,0
+caadb91c-4413-47d5-a393-946704609ff3,Facebook,Germany,16,7.44,6,11,61,1,1
+9ed098cf-a6da-4b3b-8ec1-90c4dbc6b3e2,Google Ads,Australia,3,11.84,6,47,43,0,1
+15c6138d-6e5c-4e39-aecc-6f01cb7d5381,Facebook,Canada,6,22.64,1,53,95,0,0

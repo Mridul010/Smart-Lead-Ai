@@ -1,0 +1,31 @@
+# Ignore Python virtual environments
+venv/
+.env/
+.env*/ 
+
+# Ignore Python cache and bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data backups and large temp files
+*.csv~
+*.tmp
+*.log
+
+# Ignore system or editor specific files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Ignore environment files
+*.env
+
+# Ignore build folders (for Flask/Frappe later)
+build/
+dist/
