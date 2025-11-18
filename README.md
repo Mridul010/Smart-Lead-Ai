@@ -63,16 +63,14 @@ Want to try it out on your own machine? Follow these steps:
 git clone [https://github.com/Mridul010/Smart-Lead-Ai.git](https://github.com/Mridul010/Smart-Lead-Ai.git)
 cd Smart-Lead-Ai
 
-**2. Create a Virtual Environment**
-```bash
+2. Create a Virtual Environment
 python -m venv venv
 # Windows:
 .\venv\Scripts\Activate.ps1
 # Mac/Linux:
 source venv/bin/activate
 
-**3. Install Dependencies**
-```bash
+3. Install Dependencies
 pip install pandas numpy scikit-learn flask joblib faker
 
 
