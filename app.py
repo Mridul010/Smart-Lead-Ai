@@ -10,13 +10,14 @@ model = joblib.load('model/model.pkl')
 
 # Define the expected columns (exact order from training!)
 # This helps us reconstruct the dataframe with 0s and 1s
+# Define the expected columns (exact order from training!)
 model_columns = [
     'pages_visited', 'time_on_site', 'email_opens', 'interaction_score', 
     'profile_complete', 'previous_purchases', 
     'lead_source_Facebook', 'lead_source_Google Ads', 
     'lead_source_Instagram', 'lead_source_LinkedIn', 
     'lead_source_Referral', 
-    'country_Germany', 'country_India', 'country_UK', 'country_USA'
+    'country_Canada', 'country_Germany', 'country_India', 'country_UK', 'country_USA'
 ]
 
 @app.route('/')
@@ -60,9 +61,19 @@ def predict():
             input_data[f'country_{country}'] = 1
 
         # 5. Make the prediction
+        # 5. Make the prediction
+        # predict_proba gives us [probability_of_0, probability_of_1]
+        # We want the probability of 1 (Conversion)
+        probability = model.predict_proba(input_data)[0][1]
         prediction = model.predict(input_data)[0]
+
+        # Convert to percentage (e.g., 0.85 -> 85.23)
+        score = round(probability * 100, 2)
         
-        result = "High Potential Lead! 🚀" if prediction == 1 else "Low Potential Lead 📉"
+        if prediction == 1:
+            result = f"High Potential Lead! 🚀 ({score}% Chance)"
+        else:
+            result = f"Low Potential Lead 📉 ({score}% Chance)"
         
         return render_template('index.html', prediction_text=result)
 
